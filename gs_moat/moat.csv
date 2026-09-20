@@ -1,0 +1,1620 @@
+"index","op","name","z","type","value","probability"
+2,"Boundary","moat start",,"posterior",-3314.5,0
+2,"Boundary","moat start",,"posterior",-3309.5,0
+2,"Boundary","moat start",,"posterior",-3304.5,0.0015776
+2,"Boundary","moat start",,"posterior",-3299.5,0.0024719
+2,"Boundary","moat start",,"posterior",-3294.5,0.0022024
+2,"Boundary","moat start",,"posterior",-3289.5,0.0019931
+2,"Boundary","moat start",,"posterior",-3284.5,0.001778
+2,"Boundary","moat start",,"posterior",-3279.5,0.0017488
+2,"Boundary","moat start",,"posterior",-3274.5,0.0016195
+2,"Boundary","moat start",,"posterior",-3269.5,0.0016028
+2,"Boundary","moat start",,"posterior",-3264.5,0.0015646
+2,"Boundary","moat start",,"posterior",-3259.5,0.0014955
+2,"Boundary","moat start",,"posterior",-3254.5,0.0014256
+2,"Boundary","moat start",,"posterior",-3249.5,0.0014081
+2,"Boundary","moat start",,"posterior",-3244.5,0.0013939
+2,"Boundary","moat start",,"posterior",-3239.5,0.0013488
+2,"Boundary","moat start",,"posterior",-3234.5,0.0012911
+2,"Boundary","moat start",,"posterior",-3229.5,0.0012947
+2,"Boundary","moat start",,"posterior",-3224.5,0.0012244
+2,"Boundary","moat start",,"posterior",-3219.5,0.0012313
+2,"Boundary","moat start",,"posterior",-3214.5,0.0011801
+2,"Boundary","moat start",,"posterior",-3209.5,0.0011858
+2,"Boundary","moat start",,"posterior",-3204.5,0.0011459
+2,"Boundary","moat start",,"posterior",-3199.5,0.0011667
+2,"Boundary","moat start",,"posterior",-3194.5,0.0011541
+2,"Boundary","moat start",,"posterior",-3189.5,0.0010988
+2,"Boundary","moat start",,"posterior",-3184.5,0.0011537
+2,"Boundary","moat start",,"posterior",-3179.5,0.0011248
+2,"Boundary","moat start",,"posterior",-3174.5,0.0010622
+2,"Boundary","moat start",,"posterior",-3169.5,0.0010821
+2,"Boundary","moat start",,"posterior",-3164.5,0.0010642
+2,"Boundary","moat start",,"posterior",-3159.5,0.0010663
+2,"Boundary","moat start",,"posterior",-3154.5,0.0010443
+2,"Boundary","moat start",,"posterior",-3149.5,0.0010211
+2,"Boundary","moat start",,"posterior",-3144.5,0.001039
+2,"Boundary","moat start",,"posterior",-3139.5,0.0009992
+2,"Boundary","moat start",,"posterior",-3134.5,0.0010183
+2,"Boundary","moat start",,"posterior",-3129.5,0.000952
+2,"Boundary","moat start",,"posterior",-3124.5,0.0009878
+2,"Boundary","moat start",,"posterior",-3119.5,0.0009512
+2,"Boundary","moat start",,"posterior",-3114.5,0.0009606
+2,"Boundary","moat start",,"posterior",-3109.5,0.0009695
+2,"Boundary","moat start",,"posterior",-3104.5,0.0009073
+2,"Boundary","moat start",,"posterior",-3099.5,0.0009545
+2,"Boundary","moat start",,"posterior",-3094.5,0.0008972
+2,"Boundary","moat start",,"posterior",-3089.5,0.0009252
+2,"Boundary","moat start",,"posterior",-3084.5,0.0009264
+2,"Boundary","moat start",,"posterior",-3079.5,0.0009415
+2,"Boundary","moat start",,"posterior",-3074.5,0.0008984
+2,"Boundary","moat start",,"posterior",-3069.5,0.0009264
+2,"Boundary","moat start",,"posterior",-3064.5,0.0009065
+2,"Boundary","moat start",,"posterior",-3059.5,0.0009004
+2,"Boundary","moat start",,"posterior",-3054.5,0.0009118
+2,"Boundary","moat start",,"posterior",-3049.5,0.0009435
+2,"Boundary","moat start",,"posterior",-3044.5,0.0009041
+2,"Boundary","moat start",,"posterior",-3039.5,0.0009199
+2,"Boundary","moat start",,"posterior",-3034.5,0.0009093
+2,"Boundary","moat start",,"posterior",-3029.5,0.0009159
+2,"Boundary","moat start",,"posterior",-3024.5,0.0009297
+2,"Boundary","moat start",,"posterior",-3019.5,0.0009191
+2,"Boundary","moat start",,"posterior",-3014.5,0.0008687
+2,"Boundary","moat start",,"posterior",-3009.5,0.0009049
+2,"Boundary","moat start",,"posterior",-3004.5,0.0008598
+2,"Boundary","moat start",,"posterior",-2999.5,0.000878
+2,"Boundary","moat start",,"posterior",-2994.5,0.0009114
+2,"Boundary","moat start",,"posterior",-2989.5,0.0009049
+2,"Boundary","moat start",,"posterior",-2984.5,0.0008618
+2,"Boundary","moat start",,"posterior",-2979.5,0.0009317
+2,"Boundary","moat start",,"posterior",-2974.5,0.0008687
+2,"Boundary","moat start",,"posterior",-2969.5,0.0009134
+2,"Boundary","moat start",,"posterior",-2964.5,0.0008923
+2,"Boundary","moat start",,"posterior",-2959.5,0.0009142
+2,"Boundary","moat start",,"posterior",-2954.5,0.0008996
+2,"Boundary","moat start",,"posterior",-2949.5,0.0008927
+2,"Boundary","moat start",,"posterior",-2944.5,0.0008846
+2,"Boundary","moat start",,"posterior",-2939.5,0.0009224
+2,"Boundary","moat start",,"posterior",-2934.5,0.0009171
+2,"Boundary","moat start",,"posterior",-2929.5,0.0008841
+2,"Boundary","moat start",,"posterior",-2924.5,0.0009472
+2,"Boundary","moat start",,"posterior",-2919.5,0.0009272
+2,"Boundary","moat start",,"posterior",-2914.5,0.0009321
+2,"Boundary","moat start",,"posterior",-2909.5,0.0009614
+2,"Boundary","moat start",,"posterior",-2904.5,0.0009219
+2,"Boundary","moat start",,"posterior",-2899.5,0.0009439
+2,"Boundary","moat start",,"posterior",-2894.5,0.0009874
+2,"Boundary","moat start",,"posterior",-2889.5,0.0009618
+2,"Boundary","moat start",,"posterior",-2884.5,0.0009768
+2,"Boundary","moat start",,"posterior",-2879.5,0.0009695
+2,"Boundary","moat start",,"posterior",-2874.5,0.0010268
+2,"Boundary","moat start",,"posterior",-2869.5,0.0009699
+2,"Boundary","moat start",,"posterior",-2864.5,0.0010089
+2,"Boundary","moat start",,"posterior",-2859.5,0.0010411
+2,"Boundary","moat start",,"posterior",-2854.5,0.0010789
+2,"Boundary","moat start",,"posterior",-2849.5,0.0010878
+2,"Boundary","moat start",,"posterior",-2844.5,0.0011236
+2,"Boundary","moat start",,"posterior",-2839.5,0.0010841
+2,"Boundary","moat start",,"posterior",-2834.5,0.0011805
+2,"Boundary","moat start",,"posterior",-2829.5,0.0010898
+2,"Boundary","moat start",,"posterior",-2824.5,0.0011024
+2,"Boundary","moat start",,"posterior",-2819.5,0.0011049
+2,"Boundary","moat start",,"posterior",-2814.5,0.0010683
+2,"Boundary","moat start",,"posterior",-2809.5,0.0010638
+2,"Boundary","moat start",,"posterior",-2804.5,0.0010671
+2,"Boundary","moat start",,"posterior",-2799.5,0.0011118
+2,"Boundary","moat start",,"posterior",-2794.5,0.0011289
+2,"Boundary","moat start",,"posterior",-2789.5,0.0011037
+2,"Boundary","moat start",,"posterior",-2784.5,0.0011541
+2,"Boundary","moat start",,"posterior",-2779.5,0.0012077
+2,"Boundary","moat start",,"posterior",-2774.5,0.0011959
+2,"Boundary","moat start",,"posterior",-2769.5,0.0011524
+2,"Boundary","moat start",,"posterior",-2764.5,0.0012167
+2,"Boundary","moat start",,"posterior",-2759.5,0.0012898
+2,"Boundary","moat start",,"posterior",-2754.5,0.0012512
+2,"Boundary","moat start",,"posterior",-2749.5,0.001289
+2,"Boundary","moat start",,"posterior",-2744.5,0.0013589
+2,"Boundary","moat start",,"posterior",-2739.5,0.0013354
+2,"Boundary","moat start",,"posterior",-2734.5,0.0013537
+2,"Boundary","moat start",,"posterior",-2729.5,0.0014744
+2,"Boundary","moat start",,"posterior",-2724.5,0.0014821
+2,"Boundary","moat start",,"posterior",-2719.5,0.0015695
+2,"Boundary","moat start",,"posterior",-2714.5,0.001522
+2,"Boundary","moat start",,"posterior",-2709.5,0.0016065
+2,"Boundary","moat start",,"posterior",-2704.5,0.0015866
+2,"Boundary","moat start",,"posterior",-2699.5,0.0016667
+2,"Boundary","moat start",,"posterior",-2694.5,0.0017963
+2,"Boundary","moat start",,"posterior",-2689.5,0.0017646
+2,"Boundary","moat start",,"posterior",-2684.5,0.0018248
+2,"Boundary","moat start",,"posterior",-2679.5,0.0019431
+2,"Boundary","moat start",,"posterior",-2674.5,0.0019598
+2,"Boundary","moat start",,"posterior",-2669.5,0.0020138
+2,"Boundary","moat start",,"posterior",-2664.5,0.0021793
+2,"Boundary","moat start",,"posterior",-2659.5,0.0022484
+2,"Boundary","moat start",,"posterior",-2654.5,0.0023293
+2,"Boundary","moat start",,"posterior",-2649.5,0.0023598
+2,"Boundary","moat start",,"posterior",-2644.5,0.002461
+2,"Boundary","moat start",,"posterior",-2639.5,0.0026492
+2,"Boundary","moat start",,"posterior",-2634.5,0.0027549
+2,"Boundary","moat start",,"posterior",-2629.5,0.0028415
+2,"Boundary","moat start",,"posterior",-2624.5,0.0031012
+2,"Boundary","moat start",,"posterior",-2619.5,0.0031134
+2,"Boundary","moat start",,"posterior",-2614.5,0.0028728
+2,"Boundary","moat start",,"posterior",-2609.5,0.0026032
+2,"Boundary","moat start",,"posterior",-2604.5,0.0023443
+2,"Boundary","moat start",,"posterior",-2599.5,0.0020191
+2,"Boundary","moat start",,"posterior",-2594.5,0.0019736
+2,"Boundary","moat start",,"posterior",-2589.5,0.0016264
+2,"Boundary","moat start",,"posterior",-2584.5,0.0015297
+2,"Boundary","moat start",,"posterior",-2579.5,0.0014272
+2,"Boundary","moat start",,"posterior",-2574.5,0.0008106
+2,"Boundary","moat start",,"posterior",-2569.5,0.0004756
+2,"Boundary","moat start",,"posterior",-2564.5,0.0003984
+2,"Boundary","moat start",,"posterior",-2559.5,0.0003699
+2,"Boundary","moat start",,"posterior",-2554.5,0.0003817
+2,"Boundary","moat start",,"posterior",-2549.5,0.0004362
+2,"Boundary","moat start",,"posterior",-2544.5,0.0004508
+2,"Boundary","moat start",,"posterior",-2539.5,0.000552
+2,"Boundary","moat start",,"posterior",-2534.5,0.0005154
+2,"Boundary","moat start",,"posterior",-2529.5,0.0005858
+2,"Boundary","moat start",,"posterior",-2524.5,0.0006341
+2,"Boundary","moat start",,"posterior",-2519.5,0.0006187
+2,"Boundary","moat start",,"posterior",-2514.5,0.0006163
+2,"Boundary","moat start",,"posterior",-2509.5,0.0005488
+2,"Boundary","moat start",,"posterior",-2504.5,0.00030691
+2,"Boundary","moat start",,"posterior",-2499.5,0.00011545
+2,"Boundary","moat start",,"posterior",-2494.5,0.000015041
+2,"Boundary","moat start",,"posterior",-2489.5,0
+2,"Boundary","moat start",,"posterior",-2484.5,4.079e-7
+2,"Boundary","moat start",,"posterior",-2479.5,0
+4,"Combine","Moat date",,"likelihood",-2874.5,0
+4,"Combine","Moat date",,"likelihood",-2869.5,0
+4,"Combine","Moat date",,"likelihood",-2864.5,1.762e-8
+4,"Combine","Moat date",,"likelihood",-2859.5,1.0572e-7
+4,"Combine","Moat date",,"likelihood",-2854.5,8.282e-7
+4,"Combine","Moat date",,"likelihood",-2849.5,0.000005286
+4,"Combine","Moat date",,"likelihood",-2844.5,0.000031012
+4,"Combine","Moat date",,"likelihood",-2839.5,0.00015048
+4,"Combine","Moat date",,"likelihood",-2834.5,0.0005094
+4,"Combine","Moat date",,"likelihood",-2829.5,0.0011365
+4,"Combine","Moat date",,"likelihood",-2824.5,0.001524
+4,"Combine","Moat date",,"likelihood",-2819.5,0.0010453
+4,"Combine","Moat date",,"likelihood",-2814.5,0.00031345
+4,"Combine","Moat date",,"likelihood",-2809.5,0.000019541
+4,"Combine","Moat date",,"likelihood",-2804.5,3.172e-7
+4,"Combine","Moat date",,"likelihood",-2799.5,0
+4,"Combine","Moat date",,"likelihood",-2794.5,0
+4,"Combine","Moat date",,"likelihood",-2789.5,0
+4,"Combine","Moat date",,"likelihood",-2784.5,0
+4,"Combine","Moat date",,"likelihood",-2779.5,0
+4,"Combine","Moat date",,"likelihood",-2774.5,0
+4,"Combine","Moat date",,"likelihood",-2769.5,1.762e-8
+4,"Combine","Moat date",,"likelihood",-2764.5,1.762e-8
+4,"Combine","Moat date",,"likelihood",-2759.5,3.524e-8
+4,"Combine","Moat date",,"likelihood",-2754.5,8.81e-8
+4,"Combine","Moat date",,"likelihood",-2749.5,6.52e-7
+4,"Combine","Moat date",,"likelihood",-2744.5,0.000008
+4,"Combine","Moat date",,"likelihood",-2739.5,0.00005335
+4,"Combine","Moat date",,"likelihood",-2734.5,0.00009557
+4,"Combine","Moat date",,"likelihood",-2729.5,0.00003734
+4,"Combine","Moat date",,"likelihood",-2724.5,0.000004881
+4,"Combine","Moat date",,"likelihood",-2719.5,3.348e-7
+4,"Combine","Moat date",,"likelihood",-2714.5,1.762e-8
+4,"Combine","Moat date",,"likelihood",-2709.5,0
+4,"Combine","Moat date",,"likelihood",-2704.5,1.762e-8
+4,"Combine","Moat date",,"likelihood",-2699.5,6.872e-7
+4,"Combine","Moat date",,"likelihood",-2694.5,0.000014607
+4,"Combine","Moat date",,"likelihood",-2689.5,0.00003716
+4,"Combine","Moat date",,"likelihood",-2684.5,0.00002421
+4,"Combine","Moat date",,"likelihood",-2679.5,0.000016704
+4,"Combine","Moat date",,"likelihood",-2674.5,0.000026924
+4,"Combine","Moat date",,"likelihood",-2669.5,0.00012981
+4,"Combine","Moat date",,"likelihood",-2664.5,0.0006374
+4,"Combine","Moat date",,"likelihood",-2659.5,0.0019025
+4,"Combine","Moat date",,"likelihood",-2654.5,0.0022864
+4,"Combine","Moat date",,"likelihood",-2649.5,0.001298
+4,"Combine","Moat date",,"likelihood",-2644.5,0.0006111
+4,"Combine","Moat date",,"likelihood",-2639.5,0.0003799
+4,"Combine","Moat date",,"likelihood",-2634.5,0.0005902
+4,"Combine","Moat date",,"likelihood",-2629.5,0.0015823
+4,"Combine","Moat date",,"likelihood",-2624.5,0.005568
+4,"Combine","Moat date",,"likelihood",-2619.5,0.013523
+4,"Combine","Moat date",,"likelihood",-2614.5,0.017488
+4,"Combine","Moat date",,"likelihood",-2609.5,0.01694
+4,"Combine","Moat date",,"likelihood",-2604.5,0.014114
+4,"Combine","Moat date",,"likelihood",-2599.5,0.013033
+4,"Combine","Moat date",,"likelihood",-2594.5,0.012113
+4,"Combine","Moat date",,"likelihood",-2589.5,0.010335
+4,"Combine","Moat date",,"likelihood",-2584.5,0.010462
+4,"Combine","Moat date",,"likelihood",-2579.5,0.016053
+4,"Combine","Moat date",,"likelihood",-2574.5,0.01762
+4,"Combine","Moat date",,"likelihood",-2569.5,0.004818
+4,"Combine","Moat date",,"likelihood",-2564.5,0.0004167
+4,"Combine","Moat date",,"likelihood",-2559.5,0.00005794
+4,"Combine","Moat date",,"likelihood",-2554.5,0.000020757
+4,"Combine","Moat date",,"likelihood",-2549.5,0.000014519
+4,"Combine","Moat date",,"likelihood",-2544.5,0.000016316
+4,"Combine","Moat date",,"likelihood",-2539.5,0.000025832
+4,"Combine","Moat date",,"likelihood",-2534.5,0.00009025
+4,"Combine","Moat date",,"likelihood",-2529.5,0.0004291
+4,"Combine","Moat date",,"likelihood",-2524.5,0.0012018
+4,"Combine","Moat date",,"likelihood",-2519.5,0.0019664
+4,"Combine","Moat date",,"likelihood",-2514.5,0.004505
+4,"Combine","Moat date",,"likelihood",-2509.5,0.009236
+4,"Combine","Moat date",,"likelihood",-2504.5,0.010051
+4,"Combine","Moat date",,"likelihood",-2499.5,0.004684
+4,"Combine","Moat date",,"likelihood",-2494.5,0.0006479
+4,"Combine","Moat date",,"likelihood",-2489.5,0.00004342
+4,"Combine","Moat date",,"likelihood",-2484.5,0.000012898
+4,"Combine","Moat date",,"likelihood",-2479.5,0.000019664
+4,"Combine","Moat date",,"likelihood",-2474.5,0.000018748
+4,"Combine","Moat date",,"likelihood",-2469.5,1.762e-7
+4,"Combine","Moat date",,"likelihood",-2464.5,0
+4,"Combine","Moat date",,"likelihood",-2459.5,0
+4,"Combine","Moat date",,"likelihood",-2454.5,0
+4,"Combine","Moat date",,"posterior",-2864.5,0
+4,"Combine","Moat date",,"posterior",-2859.5,4.119e-7
+4,"Combine","Moat date",,"posterior",-2854.5,8.066e-7
+4,"Combine","Moat date",,"posterior",-2849.5,0.000004067
+4,"Combine","Moat date",,"posterior",-2844.5,0.000028453
+4,"Combine","Moat date",,"posterior",-2839.5,0.00015651
+4,"Combine","Moat date",,"posterior",-2834.5,0.0005345
+4,"Combine","Moat date",,"posterior",-2829.5,0.0010858
+4,"Combine","Moat date",,"posterior",-2824.5,0.0013829
+4,"Combine","Moat date",,"posterior",-2819.5,0.001026
+4,"Combine","Moat date",,"posterior",-2814.5,0.0003642
+4,"Combine","Moat date",,"posterior",-2809.5,0.000028865
+4,"Combine","Moat date",,"posterior",-2804.5,0
+4,"Combine","Moat date",,"posterior",-2799.5,0
+4,"Combine","Moat date",,"posterior",-2794.5,0
+4,"Combine","Moat date",,"posterior",-2789.5,0
+4,"Combine","Moat date",,"posterior",-2784.5,0
+4,"Combine","Moat date",,"posterior",-2779.5,0
+4,"Combine","Moat date",,"posterior",-2774.5,0
+4,"Combine","Moat date",,"posterior",-2769.5,0
+4,"Combine","Moat date",,"posterior",-2764.5,0
+4,"Combine","Moat date",,"posterior",-2759.5,0
+4,"Combine","Moat date",,"posterior",-2754.5,0
+4,"Combine","Moat date",,"posterior",-2749.5,8.066e-7
+4,"Combine","Moat date",,"posterior",-2744.5,0.000010571
+4,"Combine","Moat date",,"posterior",-2739.5,0.00004146
+4,"Combine","Moat date",,"posterior",-2734.5,0.00008253
+4,"Combine","Moat date",,"posterior",-2729.5,0.00003983
+4,"Combine","Moat date",,"posterior",-2724.5,0.000007311
+4,"Combine","Moat date",,"posterior",-2719.5,0
+4,"Combine","Moat date",,"posterior",-2714.5,0
+4,"Combine","Moat date",,"posterior",-2709.5,0
+4,"Combine","Moat date",,"posterior",-2704.5,0
+4,"Combine","Moat date",,"posterior",-2699.5,0.0000016303
+4,"Combine","Moat date",,"posterior",-2694.5,0.000016663
+4,"Combine","Moat date",,"posterior",-2689.5,0.000037
+4,"Combine","Moat date",,"posterior",-2684.5,0.000027646
+4,"Combine","Moat date",,"posterior",-2679.5,0.000015445
+4,"Combine","Moat date",,"posterior",-2674.5,0.00003455
+4,"Combine","Moat date",,"posterior",-2669.5,0.0001504
+4,"Combine","Moat date",,"posterior",-2664.5,0.0006797
+4,"Combine","Moat date",,"posterior",-2659.5,0.0017744
+4,"Combine","Moat date",,"posterior",-2654.5,0.0021935
+4,"Combine","Moat date",,"posterior",-2649.5,0.0013447
+4,"Combine","Moat date",,"posterior",-2644.5,0.0006756
+4,"Combine","Moat date",,"posterior",-2639.5,0.0004297
+4,"Combine","Moat date",,"posterior",-2634.5,0.0006549
+4,"Combine","Moat date",,"posterior",-2629.5,0.0018492
+4,"Combine","Moat date",,"posterior",-2624.5,0.00595
+4,"Combine","Moat date",,"posterior",-2619.5,0.013063
+4,"Combine","Moat date",,"posterior",-2614.5,0.017161
+4,"Combine","Moat date",,"posterior",-2609.5,0.016614
+4,"Combine","Moat date",,"posterior",-2604.5,0.014582
+4,"Combine","Moat date",,"posterior",-2599.5,0.013355
+4,"Combine","Moat date",,"posterior",-2594.5,0.012143
+4,"Combine","Moat date",,"posterior",-2589.5,0.010778
+4,"Combine","Moat date",,"posterior",-2584.5,0.011361
+4,"Combine","Moat date",,"posterior",-2579.5,0.016622
+4,"Combine","Moat date",,"posterior",-2574.5,0.016565
+4,"Combine","Moat date",,"posterior",-2569.5,0.005419
+4,"Combine","Moat date",,"posterior",-2564.5,0.0006219
+4,"Combine","Moat date",,"posterior",-2559.5,0.0000809
+4,"Combine","Moat date",,"posterior",-2554.5,0.000023579
+4,"Combine","Moat date",,"posterior",-2549.5,0.000016269
+4,"Combine","Moat date",,"posterior",-2544.5,0.000015445
+4,"Combine","Moat date",,"posterior",-2539.5,0.000023579
+4,"Combine","Moat date",,"posterior",-2534.5,0.00009837
+4,"Combine","Moat date",,"posterior",-2529.5,0.0004224
+4,"Combine","Moat date",,"posterior",-2524.5,0.0011329
+4,"Combine","Moat date",,"posterior",-2519.5,0.0021191
+4,"Combine","Moat date",,"posterior",-2514.5,0.004512
+4,"Combine","Moat date",,"posterior",-2509.5,0.008455
+4,"Combine","Moat date",,"posterior",-2504.5,0.009
+4,"Combine","Moat date",,"posterior",-2499.5,0.004285
+4,"Combine","Moat date",,"posterior",-2494.5,0.0007862
+4,"Combine","Moat date",,"posterior",-2489.5,0.00006219
+4,"Combine","Moat date",,"posterior",-2484.5,0.000017487
+4,"Combine","Moat date",,"posterior",-2479.5,0.000019924
+4,"Combine","Moat date",,"posterior",-2474.5,0.000013815
+4,"Combine","Moat date",,"posterior",-2469.5,4.119e-7
+4,"Combine","Moat date",,"posterior",-2464.5,0
+4,"Combine","Moat date",,"posterior",-2459.5,0
+5,"R_Date","TG3N-1",,"likelihood",-3014.5,0
+5,"R_Date","TG3N-1",,"likelihood",-3009.5,0
+5,"R_Date","TG3N-1",,"likelihood",-3004.5,4.744e-9
+5,"R_Date","TG3N-1",,"likelihood",-2999.5,9.487e-9
+5,"R_Date","TG3N-1",,"likelihood",-2994.5,9.487e-9
+5,"R_Date","TG3N-1",,"likelihood",-2989.5,4.744e-9
+5,"R_Date","TG3N-1",,"likelihood",-2984.5,4.744e-9
+5,"R_Date","TG3N-1",,"likelihood",-2979.5,0
+5,"R_Date","TG3N-1",,"likelihood",-2974.5,0
+5,"R_Date","TG3N-1",,"likelihood",-2969.5,0
+5,"R_Date","TG3N-1",,"likelihood",-2964.5,0
+5,"R_Date","TG3N-1",,"likelihood",-2959.5,0
+5,"R_Date","TG3N-1",,"likelihood",-2954.5,0
+5,"R_Date","TG3N-1",,"likelihood",-2949.5,0
+5,"R_Date","TG3N-1",,"likelihood",-2944.5,0
+5,"R_Date","TG3N-1",,"likelihood",-2939.5,0
+5,"R_Date","TG3N-1",,"likelihood",-2934.5,0
+5,"R_Date","TG3N-1",,"likelihood",-2929.5,4.744e-9
+5,"R_Date","TG3N-1",,"likelihood",-2924.5,9.487e-9
+5,"R_Date","TG3N-1",,"likelihood",-2919.5,1.8974e-8
+5,"R_Date","TG3N-1",,"likelihood",-2914.5,6.167e-8
+5,"R_Date","TG3N-1",,"likelihood",-2909.5,1.8974e-7
+5,"R_Date","TG3N-1",,"likelihood",-2904.5,6.309e-7
+5,"R_Date","TG3N-1",,"likelihood",-2899.5,0.0000016887
+5,"R_Date","TG3N-1",,"likelihood",-2894.5,0.000004207
+5,"R_Date","TG3N-1",,"likelihood",-2889.5,0.000010502
+5,"R_Date","TG3N-1",,"likelihood",-2884.5,0.00002727
+5,"R_Date","TG3N-1",,"likelihood",-2879.5,0.00007194
+5,"R_Date","TG3N-1",,"likelihood",-2874.5,0.00017448
+5,"R_Date","TG3N-1",,"likelihood",-2869.5,0.000354
+5,"R_Date","TG3N-1",,"likelihood",-2864.5,0.000534
+5,"R_Date","TG3N-1",,"likelihood",-2859.5,0.0006977
+5,"R_Date","TG3N-1",,"likelihood",-2854.5,0.0008873
+5,"R_Date","TG3N-1",,"likelihood",-2849.5,0.0011243
+5,"R_Date","TG3N-1",,"likelihood",-2844.5,0.001428
+5,"R_Date","TG3N-1",,"likelihood",-2839.5,0.0017697
+5,"R_Date","TG3N-1",,"likelihood",-2834.5,0.0021042
+5,"R_Date","TG3N-1",,"likelihood",-2829.5,0.0023709
+5,"R_Date","TG3N-1",,"likelihood",-2824.5,0.0024802
+5,"R_Date","TG3N-1",,"likelihood",-2819.5,0.0023409
+5,"R_Date","TG3N-1",,"likelihood",-2814.5,0.0019563
+5,"R_Date","TG3N-1",,"likelihood",-2809.5,0.0013432
+5,"R_Date","TG3N-1",,"likelihood",-2804.5,0.0007941
+5,"R_Date","TG3N-1",,"likelihood",-2799.5,0.0004327
+5,"R_Date","TG3N-1",,"likelihood",-2794.5,0.00026467
+5,"R_Date","TG3N-1",,"likelihood",-2789.5,0.00020766
+5,"R_Date","TG3N-1",,"likelihood",-2784.5,0.00023877
+5,"R_Date","TG3N-1",,"likelihood",-2779.5,0.000336
+5,"R_Date","TG3N-1",,"likelihood",-2774.5,0.0004602
+5,"R_Date","TG3N-1",,"likelihood",-2769.5,0.0005265
+5,"R_Date","TG3N-1",,"likelihood",-2764.5,0.0005594
+5,"R_Date","TG3N-1",,"likelihood",-2759.5,0.0005934
+5,"R_Date","TG3N-1",,"likelihood",-2754.5,0.0006661
+5,"R_Date","TG3N-1",,"likelihood",-2749.5,0.0008613
+5,"R_Date","TG3N-1",,"likelihood",-2744.5,0.0011866
+5,"R_Date","TG3N-1",,"likelihood",-2739.5,0.001528
+5,"R_Date","TG3N-1",,"likelihood",-2734.5,0.001655
+5,"R_Date","TG3N-1",,"likelihood",-2729.5,0.0014637
+5,"R_Date","TG3N-1",,"likelihood",-2724.5,0.0011125
+5,"R_Date","TG3N-1",,"likelihood",-2719.5,0.0007811
+5,"R_Date","TG3N-1",,"likelihood",-2714.5,0.0005488
+5,"R_Date","TG3N-1",,"likelihood",-2709.5,0.0004696
+5,"R_Date","TG3N-1",,"likelihood",-2704.5,0.0005645
+5,"R_Date","TG3N-1",,"likelihood",-2699.5,0.0008661
+5,"R_Date","TG3N-1",,"likelihood",-2694.5,0.0012761
+5,"R_Date","TG3N-1",,"likelihood",-2689.5,0.0014548
+5,"R_Date","TG3N-1",,"likelihood",-2684.5,0.0013735
+5,"R_Date","TG3N-1",,"likelihood",-2679.5,0.0012989
+5,"R_Date","TG3N-1",,"likelihood",-2674.5,0.0013932
+5,"R_Date","TG3N-1",,"likelihood",-2669.5,0.0017198
+5,"R_Date","TG3N-1",,"likelihood",-2664.5,0.0021698
+5,"R_Date","TG3N-1",,"likelihood",-2659.5,0.0025652
+5,"R_Date","TG3N-1",,"likelihood",-2654.5,0.0026428
+5,"R_Date","TG3N-1",,"likelihood",-2649.5,0.0024141
+5,"R_Date","TG3N-1",,"likelihood",-2644.5,0.0021428
+5,"R_Date","TG3N-1",,"likelihood",-2639.5,0.0020056
+5,"R_Date","TG3N-1",,"likelihood",-2634.5,0.0021406
+5,"R_Date","TG3N-1",,"likelihood",-2629.5,0.0024926
+5,"R_Date","TG3N-1",,"likelihood",-2624.5,0.0030826
+5,"R_Date","TG3N-1",,"likelihood",-2619.5,0.003719
+5,"R_Date","TG3N-1",,"likelihood",-2614.5,0.004034
+5,"R_Date","TG3N-1",,"likelihood",-2609.5,0.003984
+5,"R_Date","TG3N-1",,"likelihood",-2604.5,0.003786
+5,"R_Date","TG3N-1",,"likelihood",-2599.5,0.003704
+5,"R_Date","TG3N-1",,"likelihood",-2594.5,0.003618
+5,"R_Date","TG3N-1",,"likelihood",-2589.5,0.003476
+5,"R_Date","TG3N-1",,"likelihood",-2584.5,0.003497
+5,"R_Date","TG3N-1",,"likelihood",-2579.5,0.003909
+5,"R_Date","TG3N-1",,"likelihood",-2574.5,0.004525
+5,"R_Date","TG3N-1",,"likelihood",-2569.5,0.004739
+5,"R_Date","TG3N-1",,"likelihood",-2564.5,0.004346
+5,"R_Date","TG3N-1",,"likelihood",-2559.5,0.003915
+5,"R_Date","TG3N-1",,"likelihood",-2554.5,0.003686
+5,"R_Date","TG3N-1",,"likelihood",-2549.5,0.003606
+5,"R_Date","TG3N-1",,"likelihood",-2544.5,0.003632
+5,"R_Date","TG3N-1",,"likelihood",-2539.5,0.003734
+5,"R_Date","TG3N-1",,"likelihood",-2534.5,0.004014
+5,"R_Date","TG3N-1",,"likelihood",-2529.5,0.004352
+5,"R_Date","TG3N-1",,"likelihood",-2524.5,0.004552
+5,"R_Date","TG3N-1",,"likelihood",-2519.5,0.004634
+5,"R_Date","TG3N-1",,"likelihood",-2514.5,0.004734
+5,"R_Date","TG3N-1",,"likelihood",-2509.5,0.004744
+5,"R_Date","TG3N-1",,"likelihood",-2504.5,0.004735
+5,"R_Date","TG3N-1",,"likelihood",-2499.5,0.004718
+5,"R_Date","TG3N-1",,"likelihood",-2494.5,0.004435
+5,"R_Date","TG3N-1",,"likelihood",-2489.5,0.003851
+5,"R_Date","TG3N-1",,"likelihood",-2484.5,0.00358
+5,"R_Date","TG3N-1",,"likelihood",-2479.5,0.003701
+5,"R_Date","TG3N-1",,"likelihood",-2474.5,0.003691
+5,"R_Date","TG3N-1",,"likelihood",-2469.5,0.0027543
+5,"R_Date","TG3N-1",,"likelihood",-2464.5,0.0014549
+5,"R_Date","TG3N-1",,"likelihood",-2459.5,0.0007626
+5,"R_Date","TG3N-1",,"likelihood",-2454.5,0.0004201
+5,"R_Date","TG3N-1",,"likelihood",-2449.5,0.00029603
+5,"R_Date","TG3N-1",,"likelihood",-2444.5,0.00026701
+5,"R_Date","TG3N-1",,"likelihood",-2439.5,0.00026493
+5,"R_Date","TG3N-1",,"likelihood",-2434.5,0.00024557
+5,"R_Date","TG3N-1",,"likelihood",-2429.5,0.00023217
+5,"R_Date","TG3N-1",,"likelihood",-2424.5,0.00023641
+5,"R_Date","TG3N-1",,"likelihood",-2419.5,0.00029345
+5,"R_Date","TG3N-1",,"likelihood",-2414.5,0.0004045
+5,"R_Date","TG3N-1",,"likelihood",-2409.5,0.0004194
+5,"R_Date","TG3N-1",,"likelihood",-2404.5,0.00030267
+5,"R_Date","TG3N-1",,"likelihood",-2399.5,0.00020957
+5,"R_Date","TG3N-1",,"likelihood",-2394.5,0.00014649
+5,"R_Date","TG3N-1",,"likelihood",-2389.5,0.00012598
+5,"R_Date","TG3N-1",,"likelihood",-2384.5,0.0001566
+5,"R_Date","TG3N-1",,"likelihood",-2379.5,0.00022182
+5,"R_Date","TG3N-1",,"likelihood",-2374.5,0.00030444
+5,"R_Date","TG3N-1",,"likelihood",-2369.5,0.000365
+5,"R_Date","TG3N-1",,"likelihood",-2364.5,0.0003681
+5,"R_Date","TG3N-1",,"likelihood",-2359.5,0.0003663
+5,"R_Date","TG3N-1",,"likelihood",-2354.5,0.0003609
+5,"R_Date","TG3N-1",,"likelihood",-2349.5,0.00029478
+5,"R_Date","TG3N-1",,"likelihood",-2344.5,0.00018389
+5,"R_Date","TG3N-1",,"likelihood",-2339.5,0.00009715
+5,"R_Date","TG3N-1",,"likelihood",-2334.5,0.00005806
+5,"R_Date","TG3N-1",,"likelihood",-2329.5,0.00005181
+5,"R_Date","TG3N-1",,"likelihood",-2324.5,0.00006162
+5,"R_Date","TG3N-1",,"likelihood",-2319.5,0.00008962
+5,"R_Date","TG3N-1",,"likelihood",-2314.5,0.00010371
+5,"R_Date","TG3N-1",,"likelihood",-2309.5,0.0001065
+5,"R_Date","TG3N-1",,"likelihood",-2304.5,0.00009644
+5,"R_Date","TG3N-1",,"likelihood",-2299.5,0.00007405
+5,"R_Date","TG3N-1",,"likelihood",-2294.5,0.00004712
+5,"R_Date","TG3N-1",,"likelihood",-2289.5,0.000024016
+5,"R_Date","TG3N-1",,"likelihood",-2284.5,0.000011266
+5,"R_Date","TG3N-1",,"likelihood",-2279.5,0.00000583
+5,"R_Date","TG3N-1",,"likelihood",-2274.5,0.0000030691
+5,"R_Date","TG3N-1",,"likelihood",-2269.5,0.0000019021
+5,"R_Date","TG3N-1",,"likelihood",-2264.5,0.0000012855
+5,"R_Date","TG3N-1",,"likelihood",-2259.5,0.0000014515
+5,"R_Date","TG3N-1",,"likelihood",-2254.5,0.0000027323
+5,"R_Date","TG3N-1",,"likelihood",-2249.5,0.00000619
+5,"R_Date","TG3N-1",,"likelihood",-2244.5,0.000011797
+5,"R_Date","TG3N-1",,"likelihood",-2239.5,0.000013628
+5,"R_Date","TG3N-1",,"likelihood",-2234.5,0.000009672
+5,"R_Date","TG3N-1",,"likelihood",-2229.5,0.000005977
+5,"R_Date","TG3N-1",,"likelihood",-2224.5,0.000005042
+5,"R_Date","TG3N-1",,"likelihood",-2219.5,0.000006119
+5,"R_Date","TG3N-1",,"likelihood",-2214.5,0.000008875
+5,"R_Date","TG3N-1",,"likelihood",-2209.5,0.000008429
+5,"R_Date","TG3N-1",,"likelihood",-2204.5,0.0000029457
+5,"R_Date","TG3N-1",,"likelihood",-2199.5,5.455e-7
+5,"R_Date","TG3N-1",,"likelihood",-2194.5,9.013e-8
+5,"R_Date","TG3N-1",,"likelihood",-2189.5,2.3718e-8
+5,"R_Date","TG3N-1",,"likelihood",-2184.5,1.8974e-8
+5,"R_Date","TG3N-1",,"likelihood",-2179.5,2.8461e-8
+5,"R_Date","TG3N-1",,"likelihood",-2174.5,5.218e-8
+5,"R_Date","TG3N-1",,"likelihood",-2169.5,1.1859e-7
+5,"R_Date","TG3N-1",,"likelihood",-2164.5,2.1346e-7
+5,"R_Date","TG3N-1",,"likelihood",-2159.5,3.1307e-7
+5,"R_Date","TG3N-1",,"likelihood",-2154.5,3.89e-7
+5,"R_Date","TG3N-1",,"likelihood",-2149.5,2.6564e-7
+5,"R_Date","TG3N-1",,"likelihood",-2144.5,9.013e-8
+5,"R_Date","TG3N-1",,"likelihood",-2139.5,2.3718e-8
+5,"R_Date","TG3N-1",,"likelihood",-2134.5,4.744e-9
+5,"R_Date","TG3N-1",,"likelihood",-2129.5,0
+5,"R_Date","TG3N-1",,"likelihood",-2124.5,0
+5,"R_Date","TG3N-1",,"posterior",-2864.5,0
+5,"R_Date","TG3N-1",,"posterior",-2859.5,4.119e-7
+5,"R_Date","TG3N-1",,"posterior",-2854.5,8.066e-7
+5,"R_Date","TG3N-1",,"posterior",-2849.5,0.000004067
+5,"R_Date","TG3N-1",,"posterior",-2844.5,0.000028453
+5,"R_Date","TG3N-1",,"posterior",-2839.5,0.00015651
+5,"R_Date","TG3N-1",,"posterior",-2834.5,0.0005345
+5,"R_Date","TG3N-1",,"posterior",-2829.5,0.0010858
+5,"R_Date","TG3N-1",,"posterior",-2824.5,0.0013829
+5,"R_Date","TG3N-1",,"posterior",-2819.5,0.001026
+5,"R_Date","TG3N-1",,"posterior",-2814.5,0.0003642
+5,"R_Date","TG3N-1",,"posterior",-2809.5,0.000028865
+5,"R_Date","TG3N-1",,"posterior",-2804.5,0
+5,"R_Date","TG3N-1",,"posterior",-2799.5,0
+5,"R_Date","TG3N-1",,"posterior",-2794.5,0
+5,"R_Date","TG3N-1",,"posterior",-2789.5,0
+5,"R_Date","TG3N-1",,"posterior",-2784.5,0
+5,"R_Date","TG3N-1",,"posterior",-2779.5,0
+5,"R_Date","TG3N-1",,"posterior",-2774.5,0
+5,"R_Date","TG3N-1",,"posterior",-2769.5,0
+5,"R_Date","TG3N-1",,"posterior",-2764.5,0
+5,"R_Date","TG3N-1",,"posterior",-2759.5,0
+5,"R_Date","TG3N-1",,"posterior",-2754.5,0
+5,"R_Date","TG3N-1",,"posterior",-2749.5,8.066e-7
+5,"R_Date","TG3N-1",,"posterior",-2744.5,0.000010571
+5,"R_Date","TG3N-1",,"posterior",-2739.5,0.00004146
+5,"R_Date","TG3N-1",,"posterior",-2734.5,0.00008253
+5,"R_Date","TG3N-1",,"posterior",-2729.5,0.00003983
+5,"R_Date","TG3N-1",,"posterior",-2724.5,0.000007311
+5,"R_Date","TG3N-1",,"posterior",-2719.5,0
+5,"R_Date","TG3N-1",,"posterior",-2714.5,0
+5,"R_Date","TG3N-1",,"posterior",-2709.5,0
+5,"R_Date","TG3N-1",,"posterior",-2704.5,0
+5,"R_Date","TG3N-1",,"posterior",-2699.5,0.0000016303
+5,"R_Date","TG3N-1",,"posterior",-2694.5,0.000016663
+5,"R_Date","TG3N-1",,"posterior",-2689.5,0.000037
+5,"R_Date","TG3N-1",,"posterior",-2684.5,0.000027646
+5,"R_Date","TG3N-1",,"posterior",-2679.5,0.000015445
+5,"R_Date","TG3N-1",,"posterior",-2674.5,0.00003455
+5,"R_Date","TG3N-1",,"posterior",-2669.5,0.0001504
+5,"R_Date","TG3N-1",,"posterior",-2664.5,0.0006797
+5,"R_Date","TG3N-1",,"posterior",-2659.5,0.0017744
+5,"R_Date","TG3N-1",,"posterior",-2654.5,0.0021935
+5,"R_Date","TG3N-1",,"posterior",-2649.5,0.0013447
+5,"R_Date","TG3N-1",,"posterior",-2644.5,0.0006756
+5,"R_Date","TG3N-1",,"posterior",-2639.5,0.0004297
+5,"R_Date","TG3N-1",,"posterior",-2634.5,0.0006549
+5,"R_Date","TG3N-1",,"posterior",-2629.5,0.0018492
+5,"R_Date","TG3N-1",,"posterior",-2624.5,0.00595
+5,"R_Date","TG3N-1",,"posterior",-2619.5,0.013063
+5,"R_Date","TG3N-1",,"posterior",-2614.5,0.017161
+5,"R_Date","TG3N-1",,"posterior",-2609.5,0.016614
+5,"R_Date","TG3N-1",,"posterior",-2604.5,0.014582
+5,"R_Date","TG3N-1",,"posterior",-2599.5,0.013355
+5,"R_Date","TG3N-1",,"posterior",-2594.5,0.012143
+5,"R_Date","TG3N-1",,"posterior",-2589.5,0.010778
+5,"R_Date","TG3N-1",,"posterior",-2584.5,0.011361
+5,"R_Date","TG3N-1",,"posterior",-2579.5,0.016622
+5,"R_Date","TG3N-1",,"posterior",-2574.5,0.016565
+5,"R_Date","TG3N-1",,"posterior",-2569.5,0.005419
+5,"R_Date","TG3N-1",,"posterior",-2564.5,0.0006219
+5,"R_Date","TG3N-1",,"posterior",-2559.5,0.0000809
+5,"R_Date","TG3N-1",,"posterior",-2554.5,0.000023579
+5,"R_Date","TG3N-1",,"posterior",-2549.5,0.000016269
+5,"R_Date","TG3N-1",,"posterior",-2544.5,0.000015445
+5,"R_Date","TG3N-1",,"posterior",-2539.5,0.000023579
+5,"R_Date","TG3N-1",,"posterior",-2534.5,0.00009837
+5,"R_Date","TG3N-1",,"posterior",-2529.5,0.0004224
+5,"R_Date","TG3N-1",,"posterior",-2524.5,0.0011329
+5,"R_Date","TG3N-1",,"posterior",-2519.5,0.0021191
+5,"R_Date","TG3N-1",,"posterior",-2514.5,0.004512
+5,"R_Date","TG3N-1",,"posterior",-2509.5,0.008455
+5,"R_Date","TG3N-1",,"posterior",-2504.5,0.009
+5,"R_Date","TG3N-1",,"posterior",-2499.5,0.004285
+5,"R_Date","TG3N-1",,"posterior",-2494.5,0.0007862
+5,"R_Date","TG3N-1",,"posterior",-2489.5,0.00006219
+5,"R_Date","TG3N-1",,"posterior",-2484.5,0.000017487
+5,"R_Date","TG3N-1",,"posterior",-2479.5,0.000019924
+5,"R_Date","TG3N-1",,"posterior",-2474.5,0.000013815
+5,"R_Date","TG3N-1",,"posterior",-2469.5,4.119e-7
+5,"R_Date","TG3N-1",,"posterior",-2464.5,0
+5,"R_Date","TG3N-1",,"posterior",-2459.5,0
+6,"R_Date","TG2N-1",,"likelihood",-2899.5,0
+6,"R_Date","TG2N-1",,"likelihood",-2894.5,0
+6,"R_Date","TG2N-1",,"likelihood",-2889.5,0
+6,"R_Date","TG2N-1",,"likelihood",-2884.5,3.237e-8
+6,"R_Date","TG2N-1",,"likelihood",-2879.5,3.561e-7
+6,"R_Date","TG2N-1",,"likelihood",-2874.5,0.000003375
+6,"R_Date","TG2N-1",,"likelihood",-2869.5,0.000021316
+6,"R_Date","TG2N-1",,"likelihood",-2864.5,0.00005544
+6,"R_Date","TG2N-1",,"likelihood",-2859.5,0.00010733
+6,"R_Date","TG2N-1",,"likelihood",-2854.5,0.00020204
+6,"R_Date","TG2N-1",,"likelihood",-2849.5,0.0003575
+6,"R_Date","TG2N-1",,"likelihood",-2844.5,0.000615
+6,"R_Date","TG2N-1",,"likelihood",-2839.5,0.0010271
+6,"R_Date","TG2N-1",,"likelihood",-2834.5,0.0015458
+6,"R_Date","TG2N-1",,"likelihood",-2829.5,0.0020414
+6,"R_Date","TG2N-1",,"likelihood",-2824.5,0.0022655
+6,"R_Date","TG2N-1",,"likelihood",-2819.5,0.0019826
+6,"R_Date","TG2N-1",,"likelihood",-2814.5,0.0013282
+6,"R_Date","TG2N-1",,"likelihood",-2809.5,0.0005308
+6,"R_Date","TG2N-1",,"likelihood",-2804.5,0.00014743
+6,"R_Date","TG2N-1",,"likelihood",-2799.5,0.00003284
+6,"R_Date","TG2N-1",,"likelihood",-2794.5,0.000010391
+6,"R_Date","TG2N-1",,"likelihood",-2789.5,0.000005236
+6,"R_Date","TG2N-1",,"likelihood",-2784.5,0.000007421
+6,"R_Date","TG2N-1",,"likelihood",-2779.5,0.000017513
+6,"R_Date","TG2N-1",,"likelihood",-2774.5,0.00004338
+6,"R_Date","TG2N-1",,"likelihood",-2769.5,0.00005671
+6,"R_Date","TG2N-1",,"likelihood",-2764.5,0.00006571
+6,"R_Date","TG2N-1",,"likelihood",-2759.5,0.00007593
+6,"R_Date","TG2N-1",,"likelihood",-2754.5,0.00010066
+6,"R_Date","TG2N-1",,"likelihood",-2749.5,0.00018798
+6,"R_Date","TG2N-1",,"likelihood",-2744.5,0.0004068
+6,"R_Date","TG2N-1",,"likelihood",-2739.5,0.0007432
+6,"R_Date","TG2N-1",,"likelihood",-2734.5,0.0008976
+6,"R_Date","TG2N-1",,"likelihood",-2729.5,0.0006528
+6,"R_Date","TG2N-1",,"likelihood",-2724.5,0.000349
+6,"R_Date","TG2N-1",,"likelihood",-2719.5,0.00015536
+6,"R_Date","TG2N-1",,"likelihood",-2714.5,0.00006273
+6,"R_Date","TG2N-1",,"likelihood",-2709.5,0.00004279
+6,"R_Date","TG2N-1",,"likelihood",-2704.5,0.00006722
+6,"R_Date","TG2N-1",,"likelihood",-2699.5,0.00019061
+6,"R_Date","TG2N-1",,"likelihood",-2694.5,0.0004999
+6,"R_Date","TG2N-1",,"likelihood",-2689.5,0.0006618
+6,"R_Date","TG2N-1",,"likelihood",-2684.5,0.0005773
+6,"R_Date","TG2N-1",,"likelihood",-2679.5,0.0005217
+6,"R_Date","TG2N-1",,"likelihood",-2674.5,0.000597
+6,"R_Date","TG2N-1",,"likelihood",-2669.5,0.0010062
+6,"R_Date","TG2N-1",,"likelihood",-2664.5,0.0016897
+6,"R_Date","TG2N-1",,"likelihood",-2659.5,0.0025087
+6,"R_Date","TG2N-1",,"likelihood",-2654.5,0.0027119
+6,"R_Date","TG2N-1",,"likelihood",-2649.5,0.0021896
+6,"R_Date","TG2N-1",,"likelihood",-2644.5,0.0017303
+6,"R_Date","TG2N-1",,"likelihood",-2639.5,0.0014359
+6,"R_Date","TG2N-1",,"likelihood",-2634.5,0.0016661
+6,"R_Date","TG2N-1",,"likelihood",-2629.5,0.0023216
+6,"R_Date","TG2N-1",,"likelihood",-2624.5,0.003759
+6,"R_Date","TG2N-1",,"likelihood",-2619.5,0.005574
+6,"R_Date","TG2N-1",,"likelihood",-2614.5,0.006533
+6,"R_Date","TG2N-1",,"likelihood",-2609.5,0.00638
+6,"R_Date","TG2N-1",,"likelihood",-2604.5,0.005782
+6,"R_Date","TG2N-1",,"likelihood",-2599.5,0.005538
+6,"R_Date","TG2N-1",,"likelihood",-2594.5,0.005271
+6,"R_Date","TG2N-1",,"likelihood",-2589.5,0.004836
+6,"R_Date","TG2N-1",,"likelihood",-2584.5,0.004915
+6,"R_Date","TG2N-1",,"likelihood",-2579.5,0.00615
+6,"R_Date","TG2N-1",,"likelihood",-2574.5,0.007906
+6,"R_Date","TG2N-1",,"likelihood",-2569.5,0.007568
+6,"R_Date","TG2N-1",,"likelihood",-2564.5,0.005226
+6,"R_Date","TG2N-1",,"likelihood",-2559.5,0.003661
+6,"R_Date","TG2N-1",,"likelihood",-2554.5,0.0030119
+6,"R_Date","TG2N-1",,"likelihood",-2549.5,0.0028106
+6,"R_Date","TG2N-1",,"likelihood",-2544.5,0.0028752
+6,"R_Date","TG2N-1",,"likelihood",-2539.5,0.0031411
+6,"R_Date","TG2N-1",,"likelihood",-2534.5,0.003975
+6,"R_Date","TG2N-1",,"likelihood",-2529.5,0.005252
+6,"R_Date","TG2N-1",,"likelihood",-2524.5,0.006224
+6,"R_Date","TG2N-1",,"likelihood",-2519.5,0.00671
+6,"R_Date","TG2N-1",,"likelihood",-2514.5,0.007508
+6,"R_Date","TG2N-1",,"likelihood",-2509.5,0.008052
+6,"R_Date","TG2N-1",,"likelihood",-2504.5,0.008093
+6,"R_Date","TG2N-1",,"likelihood",-2499.5,0.007482
+6,"R_Date","TG2N-1",,"likelihood",-2494.5,0.00563
+6,"R_Date","TG2N-1",,"likelihood",-2489.5,0.003467
+6,"R_Date","TG2N-1",,"likelihood",-2484.5,0.0027467
+6,"R_Date","TG2N-1",,"likelihood",-2479.5,0.0030013
+6,"R_Date","TG2N-1",,"likelihood",-2474.5,0.0029739
+6,"R_Date","TG2N-1",,"likelihood",-2469.5,0.0011604
+6,"R_Date","TG2N-1",,"likelihood",-2464.5,0.00017975
+6,"R_Date","TG2N-1",,"likelihood",-2459.5,0.000030332
+6,"R_Date","TG2N-1",,"likelihood",-2454.5,0.000005722
+6,"R_Date","TG2N-1",,"likelihood",-2449.5,0.0000021689
+6,"R_Date","TG2N-1",,"likelihood",-2444.5,0.0000016266
+6,"R_Date","TG2N-1",,"likelihood",-2439.5,0.0000015943
+6,"R_Date","TG2N-1",,"likelihood",-2434.5,0.0000011411
+6,"R_Date","TG2N-1",,"likelihood",-2429.5,9.711e-7
+6,"R_Date","TG2N-1",,"likelihood",-2424.5,0.0000010278
+6,"R_Date","TG2N-1",,"likelihood",-2419.5,0.0000021122
+6,"R_Date","TG2N-1",,"likelihood",-2414.5,0.000005155
+6,"R_Date","TG2N-1",,"likelihood",-2409.5,0.000005697
+6,"R_Date","TG2N-1",,"likelihood",-2404.5,0.0000023145
+6,"R_Date","TG2N-1",,"likelihood",-2399.5,0.0000010844
+6,"R_Date","TG2N-1",,"likelihood",-2394.5,3.642e-7
+6,"R_Date","TG2N-1",,"likelihood",-2389.5,2.0232e-7
+6,"R_Date","TG2N-1",,"likelihood",-2384.5,4.289e-7
+6,"R_Date","TG2N-1",,"likelihood",-2379.5,0.0000011087
+6,"R_Date","TG2N-1",,"likelihood",-2374.5,0.0000023469
+6,"R_Date","TG2N-1",,"likelihood",-2369.5,0.000003876
+6,"R_Date","TG2N-1",,"likelihood",-2364.5,0.000003974
+6,"R_Date","TG2N-1",,"likelihood",-2359.5,0.00000437
+6,"R_Date","TG2N-1",,"likelihood",-2354.5,0.0000042
+6,"R_Date","TG2N-1",,"likelihood",-2349.5,0.0000021446
+6,"R_Date","TG2N-1",,"likelihood",-2344.5,5.827e-7
+6,"R_Date","TG2N-1",,"likelihood",-2339.5,9.711e-8
+6,"R_Date","TG2N-1",,"likelihood",-2334.5,2.4278e-8
+6,"R_Date","TG2N-1",,"likelihood",-2329.5,1.6185e-8
+6,"R_Date","TG2N-1",,"likelihood",-2324.5,2.4278e-8
+6,"R_Date","TG2N-1",,"likelihood",-2319.5,9.711e-8
+6,"R_Date","TG2N-1",,"likelihood",-2314.5,1.3758e-7
+6,"R_Date","TG2N-1",,"likelihood",-2309.5,1.5376e-7
+6,"R_Date","TG2N-1",,"likelihood",-2304.5,1.133e-7
+6,"R_Date","TG2N-1",,"likelihood",-2299.5,4.856e-8
+6,"R_Date","TG2N-1",,"likelihood",-2294.5,8.093e-9
+6,"R_Date","TG2N-1",,"likelihood",-2289.5,0
+6,"R_Date","TG2N-1",,"likelihood",-2284.5,0
+6,"R_Date","TG2N-1",,"likelihood",-2279.5,0
+6,"R_Date","TG2N-1",,"posterior",-2864.5,0
+6,"R_Date","TG2N-1",,"posterior",-2859.5,4.119e-7
+6,"R_Date","TG2N-1",,"posterior",-2854.5,8.066e-7
+6,"R_Date","TG2N-1",,"posterior",-2849.5,0.000004067
+6,"R_Date","TG2N-1",,"posterior",-2844.5,0.000028453
+6,"R_Date","TG2N-1",,"posterior",-2839.5,0.00015651
+6,"R_Date","TG2N-1",,"posterior",-2834.5,0.0005345
+6,"R_Date","TG2N-1",,"posterior",-2829.5,0.0010858
+6,"R_Date","TG2N-1",,"posterior",-2824.5,0.0013829
+6,"R_Date","TG2N-1",,"posterior",-2819.5,0.001026
+6,"R_Date","TG2N-1",,"posterior",-2814.5,0.0003642
+6,"R_Date","TG2N-1",,"posterior",-2809.5,0.000028865
+6,"R_Date","TG2N-1",,"posterior",-2804.5,0
+6,"R_Date","TG2N-1",,"posterior",-2799.5,0
+6,"R_Date","TG2N-1",,"posterior",-2794.5,0
+6,"R_Date","TG2N-1",,"posterior",-2789.5,0
+6,"R_Date","TG2N-1",,"posterior",-2784.5,0
+6,"R_Date","TG2N-1",,"posterior",-2779.5,0
+6,"R_Date","TG2N-1",,"posterior",-2774.5,0
+6,"R_Date","TG2N-1",,"posterior",-2769.5,0
+6,"R_Date","TG2N-1",,"posterior",-2764.5,0
+6,"R_Date","TG2N-1",,"posterior",-2759.5,0
+6,"R_Date","TG2N-1",,"posterior",-2754.5,0
+6,"R_Date","TG2N-1",,"posterior",-2749.5,8.066e-7
+6,"R_Date","TG2N-1",,"posterior",-2744.5,0.000010571
+6,"R_Date","TG2N-1",,"posterior",-2739.5,0.00004146
+6,"R_Date","TG2N-1",,"posterior",-2734.5,0.00008253
+6,"R_Date","TG2N-1",,"posterior",-2729.5,0.00003983
+6,"R_Date","TG2N-1",,"posterior",-2724.5,0.000007311
+6,"R_Date","TG2N-1",,"posterior",-2719.5,0
+6,"R_Date","TG2N-1",,"posterior",-2714.5,0
+6,"R_Date","TG2N-1",,"posterior",-2709.5,0
+6,"R_Date","TG2N-1",,"posterior",-2704.5,0
+6,"R_Date","TG2N-1",,"posterior",-2699.5,0.0000016303
+6,"R_Date","TG2N-1",,"posterior",-2694.5,0.000016663
+6,"R_Date","TG2N-1",,"posterior",-2689.5,0.000037
+6,"R_Date","TG2N-1",,"posterior",-2684.5,0.000027646
+6,"R_Date","TG2N-1",,"posterior",-2679.5,0.000015445
+6,"R_Date","TG2N-1",,"posterior",-2674.5,0.00003455
+6,"R_Date","TG2N-1",,"posterior",-2669.5,0.0001504
+6,"R_Date","TG2N-1",,"posterior",-2664.5,0.0006797
+6,"R_Date","TG2N-1",,"posterior",-2659.5,0.0017744
+6,"R_Date","TG2N-1",,"posterior",-2654.5,0.0021935
+6,"R_Date","TG2N-1",,"posterior",-2649.5,0.0013447
+6,"R_Date","TG2N-1",,"posterior",-2644.5,0.0006756
+6,"R_Date","TG2N-1",,"posterior",-2639.5,0.0004297
+6,"R_Date","TG2N-1",,"posterior",-2634.5,0.0006549
+6,"R_Date","TG2N-1",,"posterior",-2629.5,0.0018492
+6,"R_Date","TG2N-1",,"posterior",-2624.5,0.00595
+6,"R_Date","TG2N-1",,"posterior",-2619.5,0.013063
+6,"R_Date","TG2N-1",,"posterior",-2614.5,0.017161
+6,"R_Date","TG2N-1",,"posterior",-2609.5,0.016614
+6,"R_Date","TG2N-1",,"posterior",-2604.5,0.014582
+6,"R_Date","TG2N-1",,"posterior",-2599.5,0.013355
+6,"R_Date","TG2N-1",,"posterior",-2594.5,0.012143
+6,"R_Date","TG2N-1",,"posterior",-2589.5,0.010778
+6,"R_Date","TG2N-1",,"posterior",-2584.5,0.011361
+6,"R_Date","TG2N-1",,"posterior",-2579.5,0.016622
+6,"R_Date","TG2N-1",,"posterior",-2574.5,0.016565
+6,"R_Date","TG2N-1",,"posterior",-2569.5,0.005419
+6,"R_Date","TG2N-1",,"posterior",-2564.5,0.0006219
+6,"R_Date","TG2N-1",,"posterior",-2559.5,0.0000809
+6,"R_Date","TG2N-1",,"posterior",-2554.5,0.000023579
+6,"R_Date","TG2N-1",,"posterior",-2549.5,0.000016269
+6,"R_Date","TG2N-1",,"posterior",-2544.5,0.000015445
+6,"R_Date","TG2N-1",,"posterior",-2539.5,0.000023579
+6,"R_Date","TG2N-1",,"posterior",-2534.5,0.00009837
+6,"R_Date","TG2N-1",,"posterior",-2529.5,0.0004224
+6,"R_Date","TG2N-1",,"posterior",-2524.5,0.0011329
+6,"R_Date","TG2N-1",,"posterior",-2519.5,0.0021191
+6,"R_Date","TG2N-1",,"posterior",-2514.5,0.004512
+6,"R_Date","TG2N-1",,"posterior",-2509.5,0.008455
+6,"R_Date","TG2N-1",,"posterior",-2504.5,0.009
+6,"R_Date","TG2N-1",,"posterior",-2499.5,0.004285
+6,"R_Date","TG2N-1",,"posterior",-2494.5,0.0007862
+6,"R_Date","TG2N-1",,"posterior",-2489.5,0.00006219
+6,"R_Date","TG2N-1",,"posterior",-2484.5,0.000017487
+6,"R_Date","TG2N-1",,"posterior",-2479.5,0.000019924
+6,"R_Date","TG2N-1",,"posterior",-2474.5,0.000013815
+6,"R_Date","TG2N-1",,"posterior",-2469.5,4.119e-7
+6,"R_Date","TG2N-1",,"posterior",-2464.5,0
+6,"R_Date","TG2N-1",,"posterior",-2459.5,0
+7,"R_Date","TG5-TG6HG2-3",,"likelihood",-2909.5,0
+7,"R_Date","TG5-TG6HG2-3",,"likelihood",-2904.5,0
+7,"R_Date","TG5-TG6HG2-3",,"likelihood",-2899.5,0
+7,"R_Date","TG5-TG6HG2-3",,"likelihood",-2894.5,1.9402e-8
+7,"R_Date","TG5-TG6HG2-3",,"likelihood",-2889.5,1.2288e-7
+7,"R_Date","TG5-TG6HG2-3",,"likelihood",-2884.5,9.701e-7
+7,"R_Date","TG5-TG6HG2-3",,"likelihood",-2879.5,0.000007056
+7,"R_Date","TG5-TG6HG2-3",,"likelihood",-2874.5,0.00004394
+7,"R_Date","TG5-TG6HG2-3",,"likelihood",-2869.5,0.0001843
+7,"R_Date","TG5-TG6HG2-3",,"likelihood",-2864.5,0.000391
+7,"R_Date","TG5-TG6HG2-3",,"likelihood",-2859.5,0.0006393
+7,"R_Date","TG5-TG6HG2-3",,"likelihood",-2854.5,0.0009931
+7,"R_Date","TG5-TG6HG2-3",,"likelihood",-2849.5,0.001483
+7,"R_Date","TG5-TG6HG2-3",,"likelihood",-2844.5,0.0021706
+7,"R_Date","TG5-TG6HG2-3",,"likelihood",-2839.5,0.0030081
+7,"R_Date","TG5-TG6HG2-3",,"likelihood",-2834.5,0.003834
+7,"R_Date","TG5-TG6HG2-3",,"likelihood",-2829.5,0.004468
+7,"R_Date","TG5-TG6HG2-3",,"likelihood",-2824.5,0.004716
+7,"R_Date","TG5-TG6HG2-3",,"likelihood",-2819.5,0.004398
+7,"R_Date","TG5-TG6HG2-3",,"likelihood",-2814.5,0.003467
+7,"R_Date","TG5-TG6HG2-3",,"likelihood",-2809.5,0.0019693
+7,"R_Date","TG5-TG6HG2-3",,"likelihood",-2804.5,0.0008063
+7,"R_Date","TG5-TG6HG2-3",,"likelihood",-2799.5,0.0002628
+7,"R_Date","TG5-TG6HG2-3",,"likelihood",-2794.5,0.000105
+7,"R_Date","TG5-TG6HG2-3",,"likelihood",-2789.5,0.00006242
+7,"R_Date","TG5-TG6HG2-3",,"likelihood",-2784.5,0.00008244
+7,"R_Date","TG5-TG6HG2-3",,"likelihood",-2779.5,0.00016167
+7,"R_Date","TG5-TG6HG2-3",,"likelihood",-2774.5,0.00031121
+7,"R_Date","TG5-TG6HG2-3",,"likelihood",-2769.5,0.0003896
+7,"R_Date","TG5-TG6HG2-3",,"likelihood",-2764.5,0.0004355
+7,"R_Date","TG5-TG6HG2-3",,"likelihood",-2759.5,0.0004852
+7,"R_Date","TG5-TG6HG2-3",,"likelihood",-2754.5,0.0005983
+7,"R_Date","TG5-TG6HG2-3",,"likelihood",-2749.5,0.0009431
+7,"R_Date","TG5-TG6HG2-3",,"likelihood",-2744.5,0.0016205
+7,"R_Date","TG5-TG6HG2-3",,"likelihood",-2739.5,0.0024188
+7,"R_Date","TG5-TG6HG2-3",,"likelihood",-2734.5,0.0027279
+7,"R_Date","TG5-TG6HG2-3",,"likelihood",-2729.5,0.0022565
+7,"R_Date","TG5-TG6HG2-3",,"likelihood",-2724.5,0.0014577
+7,"R_Date","TG5-TG6HG2-3",,"likelihood",-2719.5,0.0008067
+7,"R_Date","TG5-TG6HG2-3",,"likelihood",-2714.5,0.0004204
+7,"R_Date","TG5-TG6HG2-3",,"likelihood",-2709.5,0.00031479
+7,"R_Date","TG5-TG6HG2-3",,"likelihood",-2704.5,0.0004429
+7,"R_Date","TG5-TG6HG2-3",,"likelihood",-2699.5,0.0009525
+7,"R_Date","TG5-TG6HG2-3",,"likelihood",-2694.5,0.0018337
+7,"R_Date","TG5-TG6HG2-3",,"likelihood",-2689.5,0.002243
+7,"R_Date","TG5-TG6HG2-3",,"likelihood",-2684.5,0.0020501
+7,"R_Date","TG5-TG6HG2-3",,"likelihood",-2679.5,0.0018863
+7,"R_Date","TG5-TG6HG2-3",,"likelihood",-2674.5,0.0020965
+7,"R_Date","TG5-TG6HG2-3",,"likelihood",-2669.5,0.0028883
+7,"R_Date","TG5-TG6HG2-3",,"likelihood",-2664.5,0.003981
+7,"R_Date","TG5-TG6HG2-3",,"likelihood",-2659.5,0.004852
+7,"R_Date","TG5-TG6HG2-3",,"likelihood",-2654.5,0.004981
+7,"R_Date","TG5-TG6HG2-3",,"likelihood",-2649.5,0.004526
+7,"R_Date","TG5-TG6HG2-3",,"likelihood",-2644.5,0.003881
+7,"R_Date","TG5-TG6HG2-3",,"likelihood",-2639.5,0.00358
+7,"R_Date","TG5-TG6HG2-3",,"likelihood",-2634.5,0.003901
+7,"R_Date","TG5-TG6HG2-3",,"likelihood",-2629.5,0.004721
+7,"R_Date","TG5-TG6HG2-3",,"likelihood",-2624.5,0.005802
+7,"R_Date","TG5-TG6HG2-3",,"likelihood",-2619.5,0.006441
+7,"R_Date","TG5-TG6HG2-3",,"likelihood",-2614.5,0.006427
+7,"R_Date","TG5-TG6HG2-3",,"likelihood",-2609.5,0.006448
+7,"R_Date","TG5-TG6HG2-3",,"likelihood",-2604.5,0.006392
+7,"R_Date","TG5-TG6HG2-3",,"likelihood",-2599.5,0.006368
+7,"R_Date","TG5-TG6HG2-3",,"likelihood",-2594.5,0.00639
+7,"R_Date","TG5-TG6HG2-3",,"likelihood",-2589.5,0.006342
+7,"R_Date","TG5-TG6HG2-3",,"likelihood",-2584.5,0.006304
+7,"R_Date","TG5-TG6HG2-3",,"likelihood",-2579.5,0.006467
+7,"R_Date","TG5-TG6HG2-3",,"likelihood",-2574.5,0.005613
+7,"R_Date","TG5-TG6HG2-3",,"likelihood",-2569.5,0.003273
+7,"R_Date","TG5-TG6HG2-3",,"likelihood",-2564.5,0.0014587
+7,"R_Date","TG5-TG6HG2-3",,"likelihood",-2559.5,0.0007928
+7,"R_Date","TG5-TG6HG2-3",,"likelihood",-2554.5,0.0005815
+7,"R_Date","TG5-TG6HG2-3",,"likelihood",-2549.5,0.0005224
+7,"R_Date","TG5-TG6HG2-3",,"likelihood",-2544.5,0.0005411
+7,"R_Date","TG5-TG6HG2-3",,"likelihood",-2539.5,0.000621
+7,"R_Date","TG5-TG6HG2-3",,"likelihood",-2534.5,0.0009076
+7,"R_Date","TG5-TG6HG2-3",,"likelihood",-2529.5,0.0014724
+7,"R_Date","TG5-TG6HG2-3",,"likelihood",-2524.5,0.0020477
+7,"R_Date","TG5-TG6HG2-3",,"likelihood",-2519.5,0.0024082
+7,"R_Date","TG5-TG6HG2-3",,"likelihood",-2514.5,0.003197
+7,"R_Date","TG5-TG6HG2-3",,"likelihood",-2509.5,0.004168
+7,"R_Date","TG5-TG6HG2-3",,"likelihood",-2504.5,0.00431
+7,"R_Date","TG5-TG6HG2-3",,"likelihood",-2499.5,0.003267
+7,"R_Date","TG5-TG6HG2-3",,"likelihood",-2494.5,0.0016783
+7,"R_Date","TG5-TG6HG2-3",,"likelihood",-2489.5,0.0007263
+7,"R_Date","TG5-TG6HG2-3",,"likelihood",-2484.5,0.0005042
+7,"R_Date","TG5-TG6HG2-3",,"likelihood",-2479.5,0.0005644
+7,"R_Date","TG5-TG6HG2-3",,"likelihood",-2474.5,0.0005561
+7,"R_Date","TG5-TG6HG2-3",,"likelihood",-2469.5,0.00013587
+7,"R_Date","TG5-TG6HG2-3",,"likelihood",-2464.5,0.000011492
+7,"R_Date","TG5-TG6HG2-3",,"likelihood",-2459.5,0.0000012611
+7,"R_Date","TG5-TG6HG2-3",,"likelihood",-2454.5,1.6168e-7
+7,"R_Date","TG5-TG6HG2-3",,"likelihood",-2449.5,5.174e-8
+7,"R_Date","TG5-TG6HG2-3",,"likelihood",-2444.5,3.88e-8
+7,"R_Date","TG5-TG6HG2-3",,"likelihood",-2439.5,3.234e-8
+7,"R_Date","TG5-TG6HG2-3",,"likelihood",-2434.5,1.9402e-8
+7,"R_Date","TG5-TG6HG2-3",,"likelihood",-2429.5,1.9402e-8
+7,"R_Date","TG5-TG6HG2-3",,"likelihood",-2424.5,1.9402e-8
+7,"R_Date","TG5-TG6HG2-3",,"likelihood",-2419.5,5.174e-8
+7,"R_Date","TG5-TG6HG2-3",,"likelihood",-2414.5,1.4228e-7
+7,"R_Date","TG5-TG6HG2-3",,"likelihood",-2409.5,1.6168e-7
+7,"R_Date","TG5-TG6HG2-3",,"likelihood",-2404.5,5.821e-8
+7,"R_Date","TG5-TG6HG2-3",,"likelihood",-2399.5,2.5869e-8
+7,"R_Date","TG5-TG6HG2-3",,"likelihood",-2394.5,6.467e-9
+7,"R_Date","TG5-TG6HG2-3",,"likelihood",-2389.5,0
+7,"R_Date","TG5-TG6HG2-3",,"likelihood",-2384.5,6.467e-9
+7,"R_Date","TG5-TG6HG2-3",,"likelihood",-2379.5,2.5869e-8
+7,"R_Date","TG5-TG6HG2-3",,"likelihood",-2374.5,5.821e-8
+7,"R_Date","TG5-TG6HG2-3",,"likelihood",-2369.5,1.0348e-7
+7,"R_Date","TG5-TG6HG2-3",,"likelihood",-2364.5,1.0348e-7
+7,"R_Date","TG5-TG6HG2-3",,"likelihood",-2359.5,1.2288e-7
+7,"R_Date","TG5-TG6HG2-3",,"likelihood",-2354.5,1.1641e-7
+7,"R_Date","TG5-TG6HG2-3",,"likelihood",-2349.5,5.174e-8
+7,"R_Date","TG5-TG6HG2-3",,"likelihood",-2344.5,1.2935e-8
+7,"R_Date","TG5-TG6HG2-3",,"likelihood",-2339.5,0
+7,"R_Date","TG5-TG6HG2-3",,"likelihood",-2334.5,0
+7,"R_Date","TG5-TG6HG2-3",,"likelihood",-2329.5,0
+7,"R_Date","TG5-TG6HG2-3",,"posterior",-2864.5,0
+7,"R_Date","TG5-TG6HG2-3",,"posterior",-2859.5,4.119e-7
+7,"R_Date","TG5-TG6HG2-3",,"posterior",-2854.5,8.066e-7
+7,"R_Date","TG5-TG6HG2-3",,"posterior",-2849.5,0.000004067
+7,"R_Date","TG5-TG6HG2-3",,"posterior",-2844.5,0.000028453
+7,"R_Date","TG5-TG6HG2-3",,"posterior",-2839.5,0.00015651
+7,"R_Date","TG5-TG6HG2-3",,"posterior",-2834.5,0.0005345
+7,"R_Date","TG5-TG6HG2-3",,"posterior",-2829.5,0.0010858
+7,"R_Date","TG5-TG6HG2-3",,"posterior",-2824.5,0.0013829
+7,"R_Date","TG5-TG6HG2-3",,"posterior",-2819.5,0.001026
+7,"R_Date","TG5-TG6HG2-3",,"posterior",-2814.5,0.0003642
+7,"R_Date","TG5-TG6HG2-3",,"posterior",-2809.5,0.000028865
+7,"R_Date","TG5-TG6HG2-3",,"posterior",-2804.5,0
+7,"R_Date","TG5-TG6HG2-3",,"posterior",-2799.5,0
+7,"R_Date","TG5-TG6HG2-3",,"posterior",-2794.5,0
+7,"R_Date","TG5-TG6HG2-3",,"posterior",-2789.5,0
+7,"R_Date","TG5-TG6HG2-3",,"posterior",-2784.5,0
+7,"R_Date","TG5-TG6HG2-3",,"posterior",-2779.5,0
+7,"R_Date","TG5-TG6HG2-3",,"posterior",-2774.5,0
+7,"R_Date","TG5-TG6HG2-3",,"posterior",-2769.5,0
+7,"R_Date","TG5-TG6HG2-3",,"posterior",-2764.5,0
+7,"R_Date","TG5-TG6HG2-3",,"posterior",-2759.5,0
+7,"R_Date","TG5-TG6HG2-3",,"posterior",-2754.5,0
+7,"R_Date","TG5-TG6HG2-3",,"posterior",-2749.5,8.066e-7
+7,"R_Date","TG5-TG6HG2-3",,"posterior",-2744.5,0.000010571
+7,"R_Date","TG5-TG6HG2-3",,"posterior",-2739.5,0.00004146
+7,"R_Date","TG5-TG6HG2-3",,"posterior",-2734.5,0.00008253
+7,"R_Date","TG5-TG6HG2-3",,"posterior",-2729.5,0.00003983
+7,"R_Date","TG5-TG6HG2-3",,"posterior",-2724.5,0.000007311
+7,"R_Date","TG5-TG6HG2-3",,"posterior",-2719.5,0
+7,"R_Date","TG5-TG6HG2-3",,"posterior",-2714.5,0
+7,"R_Date","TG5-TG6HG2-3",,"posterior",-2709.5,0
+7,"R_Date","TG5-TG6HG2-3",,"posterior",-2704.5,0
+7,"R_Date","TG5-TG6HG2-3",,"posterior",-2699.5,0.0000016303
+7,"R_Date","TG5-TG6HG2-3",,"posterior",-2694.5,0.000016663
+7,"R_Date","TG5-TG6HG2-3",,"posterior",-2689.5,0.000037
+7,"R_Date","TG5-TG6HG2-3",,"posterior",-2684.5,0.000027646
+7,"R_Date","TG5-TG6HG2-3",,"posterior",-2679.5,0.000015445
+7,"R_Date","TG5-TG6HG2-3",,"posterior",-2674.5,0.00003455
+7,"R_Date","TG5-TG6HG2-3",,"posterior",-2669.5,0.0001504
+7,"R_Date","TG5-TG6HG2-3",,"posterior",-2664.5,0.0006797
+7,"R_Date","TG5-TG6HG2-3",,"posterior",-2659.5,0.0017744
+7,"R_Date","TG5-TG6HG2-3",,"posterior",-2654.5,0.0021935
+7,"R_Date","TG5-TG6HG2-3",,"posterior",-2649.5,0.0013447
+7,"R_Date","TG5-TG6HG2-3",,"posterior",-2644.5,0.0006756
+7,"R_Date","TG5-TG6HG2-3",,"posterior",-2639.5,0.0004297
+7,"R_Date","TG5-TG6HG2-3",,"posterior",-2634.5,0.0006549
+7,"R_Date","TG5-TG6HG2-3",,"posterior",-2629.5,0.0018492
+7,"R_Date","TG5-TG6HG2-3",,"posterior",-2624.5,0.00595
+7,"R_Date","TG5-TG6HG2-3",,"posterior",-2619.5,0.013063
+7,"R_Date","TG5-TG6HG2-3",,"posterior",-2614.5,0.017161
+7,"R_Date","TG5-TG6HG2-3",,"posterior",-2609.5,0.016614
+7,"R_Date","TG5-TG6HG2-3",,"posterior",-2604.5,0.014582
+7,"R_Date","TG5-TG6HG2-3",,"posterior",-2599.5,0.013355
+7,"R_Date","TG5-TG6HG2-3",,"posterior",-2594.5,0.012143
+7,"R_Date","TG5-TG6HG2-3",,"posterior",-2589.5,0.010778
+7,"R_Date","TG5-TG6HG2-3",,"posterior",-2584.5,0.011361
+7,"R_Date","TG5-TG6HG2-3",,"posterior",-2579.5,0.016622
+7,"R_Date","TG5-TG6HG2-3",,"posterior",-2574.5,0.016565
+7,"R_Date","TG5-TG6HG2-3",,"posterior",-2569.5,0.005419
+7,"R_Date","TG5-TG6HG2-3",,"posterior",-2564.5,0.0006219
+7,"R_Date","TG5-TG6HG2-3",,"posterior",-2559.5,0.0000809
+7,"R_Date","TG5-TG6HG2-3",,"posterior",-2554.5,0.000023579
+7,"R_Date","TG5-TG6HG2-3",,"posterior",-2549.5,0.000016269
+7,"R_Date","TG5-TG6HG2-3",,"posterior",-2544.5,0.000015445
+7,"R_Date","TG5-TG6HG2-3",,"posterior",-2539.5,0.000023579
+7,"R_Date","TG5-TG6HG2-3",,"posterior",-2534.5,0.00009837
+7,"R_Date","TG5-TG6HG2-3",,"posterior",-2529.5,0.0004224
+7,"R_Date","TG5-TG6HG2-3",,"posterior",-2524.5,0.0011329
+7,"R_Date","TG5-TG6HG2-3",,"posterior",-2519.5,0.0021191
+7,"R_Date","TG5-TG6HG2-3",,"posterior",-2514.5,0.004512
+7,"R_Date","TG5-TG6HG2-3",,"posterior",-2509.5,0.008455
+7,"R_Date","TG5-TG6HG2-3",,"posterior",-2504.5,0.009
+7,"R_Date","TG5-TG6HG2-3",,"posterior",-2499.5,0.004285
+7,"R_Date","TG5-TG6HG2-3",,"posterior",-2494.5,0.0007862
+7,"R_Date","TG5-TG6HG2-3",,"posterior",-2489.5,0.00006219
+7,"R_Date","TG5-TG6HG2-3",,"posterior",-2484.5,0.000017487
+7,"R_Date","TG5-TG6HG2-3",,"posterior",-2479.5,0.000019924
+7,"R_Date","TG5-TG6HG2-3",,"posterior",-2474.5,0.000013815
+7,"R_Date","TG5-TG6HG2-3",,"posterior",-2469.5,4.119e-7
+7,"R_Date","TG5-TG6HG2-3",,"posterior",-2464.5,0
+7,"R_Date","TG5-TG6HG2-3",,"posterior",-2459.5,0
+8,"R_Date","HG6-1",,"likelihood",-3019.5,0
+8,"R_Date","HG6-1",,"likelihood",-3014.5,0
+8,"R_Date","HG6-1",,"likelihood",-3009.5,4.097e-9
+8,"R_Date","HG6-1",,"likelihood",-3004.5,8.194e-9
+8,"R_Date","HG6-1",,"likelihood",-2999.5,1.6387e-8
+8,"R_Date","HG6-1",,"likelihood",-2994.5,1.6387e-8
+8,"R_Date","HG6-1",,"likelihood",-2989.5,8.194e-9
+8,"R_Date","HG6-1",,"likelihood",-2984.5,4.097e-9
+8,"R_Date","HG6-1",,"likelihood",-2979.5,4.097e-9
+8,"R_Date","HG6-1",,"likelihood",-2974.5,4.097e-9
+8,"R_Date","HG6-1",,"likelihood",-2969.5,4.097e-9
+8,"R_Date","HG6-1",,"likelihood",-2964.5,4.097e-9
+8,"R_Date","HG6-1",,"likelihood",-2959.5,4.097e-9
+8,"R_Date","HG6-1",,"likelihood",-2954.5,4.097e-9
+8,"R_Date","HG6-1",,"likelihood",-2949.5,4.097e-9
+8,"R_Date","HG6-1",,"likelihood",-2944.5,4.097e-9
+8,"R_Date","HG6-1",,"likelihood",-2939.5,4.097e-9
+8,"R_Date","HG6-1",,"likelihood",-2934.5,4.097e-9
+8,"R_Date","HG6-1",,"likelihood",-2929.5,4.097e-9
+8,"R_Date","HG6-1",,"likelihood",-2924.5,1.229e-8
+8,"R_Date","HG6-1",,"likelihood",-2919.5,4.916e-8
+8,"R_Date","HG6-1",,"likelihood",-2914.5,1.5978e-7
+8,"R_Date","HG6-1",,"likelihood",-2909.5,5.613e-7
+8,"R_Date","HG6-1",,"likelihood",-2904.5,0.0000021426
+8,"R_Date","HG6-1",,"likelihood",-2899.5,0.000006248
+8,"R_Date","HG6-1",,"likelihood",-2894.5,0.000016572
+8,"R_Date","HG6-1",,"likelihood",-2889.5,0.00004307
+8,"R_Date","HG6-1",,"likelihood",-2884.5,0.00011336
+8,"R_Date","HG6-1",,"likelihood",-2879.5,0.00029234
+8,"R_Date","HG6-1",,"likelihood",-2874.5,0.0006614
+8,"R_Date","HG6-1",,"likelihood",-2869.5,0.0012069
+8,"R_Date","HG6-1",,"likelihood",-2864.5,0.0016815
+8,"R_Date","HG6-1",,"likelihood",-2859.5,0.0020522
+8,"R_Date","HG6-1",,"likelihood",-2854.5,0.0024141
+8,"R_Date","HG6-1",,"likelihood",-2849.5,0.002812
+8,"R_Date","HG6-1",,"likelihood",-2844.5,0.003246
+8,"R_Date","HG6-1",,"likelihood",-2839.5,0.003609
+8,"R_Date","HG6-1",,"likelihood",-2834.5,0.003867
+8,"R_Date","HG6-1",,"likelihood",-2829.5,0.00401
+8,"R_Date","HG6-1",,"likelihood",-2824.5,0.004053
+8,"R_Date","HG6-1",,"likelihood",-2819.5,0.003996
+8,"R_Date","HG6-1",,"likelihood",-2814.5,0.003743
+8,"R_Date","HG6-1",,"likelihood",-2809.5,0.0031388
+8,"R_Date","HG6-1",,"likelihood",-2804.5,0.0022499
+8,"R_Date","HG6-1",,"likelihood",-2799.5,0.0014267
+8,"R_Date","HG6-1",,"likelihood",-2794.5,0.0009465
+8,"R_Date","HG6-1",,"likelihood",-2789.5,0.0007712
+8,"R_Date","HG6-1",,"likelihood",-2784.5,0.0008707
+8,"R_Date","HG6-1",,"likelihood",-2779.5,0.0011617
+8,"R_Date","HG6-1",,"likelihood",-2774.5,0.0014823
+8,"R_Date","HG6-1",,"likelihood",-2769.5,0.0016548
+8,"R_Date","HG6-1",,"likelihood",-2764.5,0.0017331
+8,"R_Date","HG6-1",,"likelihood",-2759.5,0.0018119
+8,"R_Date","HG6-1",,"likelihood",-2754.5,0.0019737
+8,"R_Date","HG6-1",,"likelihood",-2749.5,0.0023661
+8,"R_Date","HG6-1",,"likelihood",-2744.5,0.0029055
+8,"R_Date","HG6-1",,"likelihood",-2739.5,0.003345
+8,"R_Date","HG6-1",,"likelihood",-2734.5,0.003479
+8,"R_Date","HG6-1",,"likelihood",-2729.5,0.003289
+8,"R_Date","HG6-1",,"likelihood",-2724.5,0.0027933
+8,"R_Date","HG6-1",,"likelihood",-2719.5,0.0021992
+8,"R_Date","HG6-1",,"likelihood",-2714.5,0.001708
+8,"R_Date","HG6-1",,"likelihood",-2709.5,0.0015141
+8,"R_Date","HG6-1",,"likelihood",-2704.5,0.0017452
+8,"R_Date","HG6-1",,"likelihood",-2699.5,0.002375
+8,"R_Date","HG6-1",,"likelihood",-2694.5,0.0030147
+8,"R_Date","HG6-1",,"likelihood",-2689.5,0.00326
+8,"R_Date","HG6-1",,"likelihood",-2684.5,0.0031601
+8,"R_Date","HG6-1",,"likelihood",-2679.5,0.0030451
+8,"R_Date","HG6-1",,"likelihood",-2674.5,0.003185
+8,"R_Date","HG6-1",,"likelihood",-2669.5,0.003522
+8,"R_Date","HG6-1",,"likelihood",-2664.5,0.003885
+8,"R_Date","HG6-1",,"likelihood",-2659.5,0.004037
+8,"R_Date","HG6-1",,"likelihood",-2654.5,0.004034
+8,"R_Date","HG6-1",,"likelihood",-2649.5,0.003983
+8,"R_Date","HG6-1",,"likelihood",-2644.5,0.003801
+8,"R_Date","HG6-1",,"likelihood",-2639.5,0.003757
+8,"R_Date","HG6-1",,"likelihood",-2634.5,0.003846
+8,"R_Date","HG6-1",,"likelihood",-2629.5,0.004036
+8,"R_Date","HG6-1",,"likelihood",-2624.5,0.004097
+8,"R_Date","HG6-1",,"likelihood",-2619.5,0.003904
+8,"R_Date","HG6-1",,"likelihood",-2614.5,0.00368
+8,"R_Date","HG6-1",,"likelihood",-2609.5,0.003722
+8,"R_Date","HG6-1",,"likelihood",-2604.5,0.003839
+8,"R_Date","HG6-1",,"likelihood",-2599.5,0.003887
+8,"R_Date","HG6-1",,"likelihood",-2594.5,0.003956
+8,"R_Date","HG6-1",,"likelihood",-2589.5,0.004038
+8,"R_Date","HG6-1",,"likelihood",-2584.5,0.004007
+8,"R_Date","HG6-1",,"likelihood",-2579.5,0.003782
+8,"R_Date","HG6-1",,"likelihood",-2574.5,0.0030414
+8,"R_Date","HG6-1",,"likelihood",-2569.5,0.0019026
+8,"R_Date","HG6-1",,"likelihood",-2564.5,0.001051
+8,"R_Date","HG6-1",,"likelihood",-2559.5,0.0006903
+8,"R_Date","HG6-1",,"likelihood",-2554.5,0.0005603
+8,"R_Date","HG6-1",,"likelihood",-2549.5,0.0005216
+8,"R_Date","HG6-1",,"likelihood",-2544.5,0.000534
+8,"R_Date","HG6-1",,"likelihood",-2539.5,0.0005855
+8,"R_Date","HG6-1",,"likelihood",-2534.5,0.0007568
+8,"R_Date","HG6-1",,"likelihood",-2529.5,0.0010579
+8,"R_Date","HG6-1",,"likelihood",-2524.5,0.0013387
+8,"R_Date","HG6-1",,"likelihood",-2519.5,0.0015075
+8,"R_Date","HG6-1",,"likelihood",-2514.5,0.0018678
+8,"R_Date","HG6-1",,"likelihood",-2509.5,0.0023118
+8,"R_Date","HG6-1",,"likelihood",-2504.5,0.0023783
+8,"R_Date","HG6-1",,"likelihood",-2499.5,0.0018997
+8,"R_Date","HG6-1",,"likelihood",-2494.5,0.0011604
+8,"R_Date","HG6-1",,"likelihood",-2489.5,0.0006506
+8,"R_Date","HG6-1",,"likelihood",-2484.5,0.0005095
+8,"R_Date","HG6-1",,"likelihood",-2479.5,0.0005549
+8,"R_Date","HG6-1",,"likelihood",-2474.5,0.0005496
+8,"R_Date","HG6-1",,"likelihood",-2469.5,0.00022432
+8,"R_Date","HG6-1",,"likelihood",-2464.5,0.00004716
+8,"R_Date","HG6-1",,"likelihood",-2459.5,0.000011737
+8,"R_Date","HG6-1",,"likelihood",-2454.5,0.000003404
+8,"R_Date","HG6-1",,"likelihood",-2449.5,0.0000016838
+8,"R_Date","HG6-1",,"likelihood",-2444.5,0.0000013724
+8,"R_Date","HG6-1",,"likelihood",-2439.5,0.0000013519
+8,"R_Date","HG6-1",,"likelihood",-2434.5,0.0000011061
+8,"R_Date","HG6-1",,"likelihood",-2429.5,9.873e-7
+8,"R_Date","HG6-1",,"likelihood",-2424.5,0.0000010242
+8,"R_Date","HG6-1",,"likelihood",-2419.5,0.0000016551
+8,"R_Date","HG6-1",,"likelihood",-2414.5,0.0000031504
+8,"R_Date","HG6-1",,"likelihood",-2409.5,0.000003392
+8,"R_Date","HG6-1",,"likelihood",-2404.5,0.0000017616
+8,"R_Date","HG6-1",,"likelihood",-2399.5,9.505e-7
+8,"R_Date","HG6-1",,"likelihood",-2394.5,4.506e-7
+8,"R_Date","HG6-1",,"likelihood",-2389.5,3.1545e-7
+8,"R_Date","HG6-1",,"likelihood",-2384.5,5.121e-7
+8,"R_Date","HG6-1",,"likelihood",-2379.5,0.0000010037
+8,"R_Date","HG6-1",,"likelihood",-2374.5,0.0000017821
+8,"R_Date","HG6-1",,"likelihood",-2369.5,0.0000025605
+8,"R_Date","HG6-1",,"likelihood",-2364.5,0.0000026097
+8,"R_Date","HG6-1",,"likelihood",-2359.5,0.000002708
+8,"R_Date","HG6-1",,"likelihood",-2354.5,0.0000026302
+8,"R_Date","HG6-1",,"likelihood",-2349.5,0.0000016715
+8,"R_Date","HG6-1",,"likelihood",-2344.5,6.596e-7
+8,"R_Date","HG6-1",,"likelihood",-2339.5,1.9255e-7
+8,"R_Date","HG6-1",,"likelihood",-2334.5,6.965e-8
+8,"R_Date","HG6-1",,"likelihood",-2329.5,5.736e-8
+8,"R_Date","HG6-1",,"likelihood",-2324.5,7.784e-8
+8,"R_Date","HG6-1",,"likelihood",-2319.5,1.7616e-7
+8,"R_Date","HG6-1",,"likelihood",-2314.5,2.3352e-7
+8,"R_Date","HG6-1",,"likelihood",-2309.5,2.4581e-7
+8,"R_Date","HG6-1",,"likelihood",-2304.5,2.0074e-7
+8,"R_Date","HG6-1",,"likelihood",-2299.5,1.1471e-7
+8,"R_Date","HG6-1",,"likelihood",-2294.5,4.506e-8
+8,"R_Date","HG6-1",,"likelihood",-2289.5,1.229e-8
+8,"R_Date","HG6-1",,"likelihood",-2284.5,4.097e-9
+8,"R_Date","HG6-1",,"likelihood",-2279.5,0
+8,"R_Date","HG6-1",,"likelihood",-2274.5,0
+8,"R_Date","HG6-1",,"likelihood",-2269.5,0
+8,"R_Date","HG6-1",,"likelihood",-2264.5,0
+8,"R_Date","HG6-1",,"likelihood",-2259.5,0
+8,"R_Date","HG6-1",,"likelihood",-2254.5,0
+8,"R_Date","HG6-1",,"likelihood",-2249.5,0
+8,"R_Date","HG6-1",,"likelihood",-2244.5,4.097e-9
+8,"R_Date","HG6-1",,"likelihood",-2239.5,4.097e-9
+8,"R_Date","HG6-1",,"likelihood",-2234.5,4.097e-9
+8,"R_Date","HG6-1",,"likelihood",-2229.5,0
+8,"R_Date","HG6-1",,"likelihood",-2224.5,0
+8,"R_Date","HG6-1",,"posterior",-2864.5,0
+8,"R_Date","HG6-1",,"posterior",-2859.5,4.119e-7
+8,"R_Date","HG6-1",,"posterior",-2854.5,8.066e-7
+8,"R_Date","HG6-1",,"posterior",-2849.5,0.000004067
+8,"R_Date","HG6-1",,"posterior",-2844.5,0.000028453
+8,"R_Date","HG6-1",,"posterior",-2839.5,0.00015651
+8,"R_Date","HG6-1",,"posterior",-2834.5,0.0005345
+8,"R_Date","HG6-1",,"posterior",-2829.5,0.0010858
+8,"R_Date","HG6-1",,"posterior",-2824.5,0.0013829
+8,"R_Date","HG6-1",,"posterior",-2819.5,0.001026
+8,"R_Date","HG6-1",,"posterior",-2814.5,0.0003642
+8,"R_Date","HG6-1",,"posterior",-2809.5,0.000028865
+8,"R_Date","HG6-1",,"posterior",-2804.5,0
+8,"R_Date","HG6-1",,"posterior",-2799.5,0
+8,"R_Date","HG6-1",,"posterior",-2794.5,0
+8,"R_Date","HG6-1",,"posterior",-2789.5,0
+8,"R_Date","HG6-1",,"posterior",-2784.5,0
+8,"R_Date","HG6-1",,"posterior",-2779.5,0
+8,"R_Date","HG6-1",,"posterior",-2774.5,0
+8,"R_Date","HG6-1",,"posterior",-2769.5,0
+8,"R_Date","HG6-1",,"posterior",-2764.5,0
+8,"R_Date","HG6-1",,"posterior",-2759.5,0
+8,"R_Date","HG6-1",,"posterior",-2754.5,0
+8,"R_Date","HG6-1",,"posterior",-2749.5,8.066e-7
+8,"R_Date","HG6-1",,"posterior",-2744.5,0.000010571
+8,"R_Date","HG6-1",,"posterior",-2739.5,0.00004146
+8,"R_Date","HG6-1",,"posterior",-2734.5,0.00008253
+8,"R_Date","HG6-1",,"posterior",-2729.5,0.00003983
+8,"R_Date","HG6-1",,"posterior",-2724.5,0.000007311
+8,"R_Date","HG6-1",,"posterior",-2719.5,0
+8,"R_Date","HG6-1",,"posterior",-2714.5,0
+8,"R_Date","HG6-1",,"posterior",-2709.5,0
+8,"R_Date","HG6-1",,"posterior",-2704.5,0
+8,"R_Date","HG6-1",,"posterior",-2699.5,0.0000016303
+8,"R_Date","HG6-1",,"posterior",-2694.5,0.000016663
+8,"R_Date","HG6-1",,"posterior",-2689.5,0.000037
+8,"R_Date","HG6-1",,"posterior",-2684.5,0.000027646
+8,"R_Date","HG6-1",,"posterior",-2679.5,0.000015445
+8,"R_Date","HG6-1",,"posterior",-2674.5,0.00003455
+8,"R_Date","HG6-1",,"posterior",-2669.5,0.0001504
+8,"R_Date","HG6-1",,"posterior",-2664.5,0.0006797
+8,"R_Date","HG6-1",,"posterior",-2659.5,0.0017744
+8,"R_Date","HG6-1",,"posterior",-2654.5,0.0021935
+8,"R_Date","HG6-1",,"posterior",-2649.5,0.0013447
+8,"R_Date","HG6-1",,"posterior",-2644.5,0.0006756
+8,"R_Date","HG6-1",,"posterior",-2639.5,0.0004297
+8,"R_Date","HG6-1",,"posterior",-2634.5,0.0006549
+8,"R_Date","HG6-1",,"posterior",-2629.5,0.0018492
+8,"R_Date","HG6-1",,"posterior",-2624.5,0.00595
+8,"R_Date","HG6-1",,"posterior",-2619.5,0.013063
+8,"R_Date","HG6-1",,"posterior",-2614.5,0.017161
+8,"R_Date","HG6-1",,"posterior",-2609.5,0.016614
+8,"R_Date","HG6-1",,"posterior",-2604.5,0.014582
+8,"R_Date","HG6-1",,"posterior",-2599.5,0.013355
+8,"R_Date","HG6-1",,"posterior",-2594.5,0.012143
+8,"R_Date","HG6-1",,"posterior",-2589.5,0.010778
+8,"R_Date","HG6-1",,"posterior",-2584.5,0.011361
+8,"R_Date","HG6-1",,"posterior",-2579.5,0.016622
+8,"R_Date","HG6-1",,"posterior",-2574.5,0.016565
+8,"R_Date","HG6-1",,"posterior",-2569.5,0.005419
+8,"R_Date","HG6-1",,"posterior",-2564.5,0.0006219
+8,"R_Date","HG6-1",,"posterior",-2559.5,0.0000809
+8,"R_Date","HG6-1",,"posterior",-2554.5,0.000023579
+8,"R_Date","HG6-1",,"posterior",-2549.5,0.000016269
+8,"R_Date","HG6-1",,"posterior",-2544.5,0.000015445
+8,"R_Date","HG6-1",,"posterior",-2539.5,0.000023579
+8,"R_Date","HG6-1",,"posterior",-2534.5,0.00009837
+8,"R_Date","HG6-1",,"posterior",-2529.5,0.0004224
+8,"R_Date","HG6-1",,"posterior",-2524.5,0.0011329
+8,"R_Date","HG6-1",,"posterior",-2519.5,0.0021191
+8,"R_Date","HG6-1",,"posterior",-2514.5,0.004512
+8,"R_Date","HG6-1",,"posterior",-2509.5,0.008455
+8,"R_Date","HG6-1",,"posterior",-2504.5,0.009
+8,"R_Date","HG6-1",,"posterior",-2499.5,0.004285
+8,"R_Date","HG6-1",,"posterior",-2494.5,0.0007862
+8,"R_Date","HG6-1",,"posterior",-2489.5,0.00006219
+8,"R_Date","HG6-1",,"posterior",-2484.5,0.000017487
+8,"R_Date","HG6-1",,"posterior",-2479.5,0.000019924
+8,"R_Date","HG6-1",,"posterior",-2474.5,0.000013815
+8,"R_Date","HG6-1",,"posterior",-2469.5,4.119e-7
+8,"R_Date","HG6-1",,"posterior",-2464.5,0
+8,"R_Date","HG6-1",,"posterior",-2459.5,0
+9,"R_Date","HG6-2",,"likelihood",-2904.5,0
+9,"R_Date","HG6-2",,"likelihood",-2899.5,0
+9,"R_Date","HG6-2",,"likelihood",-2894.5,0
+9,"R_Date","HG6-2",,"likelihood",-2889.5,2.2008e-8
+9,"R_Date","HG6-2",,"likelihood",-2884.5,2.054e-7
+9,"R_Date","HG6-2",,"likelihood",-2879.5,0.0000017533
+9,"R_Date","HG6-2",,"likelihood",-2874.5,0.00001341
+9,"R_Date","HG6-2",,"likelihood",-2869.5,0.00006897
+9,"R_Date","HG6-2",,"likelihood",-2864.5,0.00016225
+9,"R_Date","HG6-2",,"likelihood",-2859.5,0.00028876
+9,"R_Date","HG6-2",,"likelihood",-2854.5,0.0004931
+9,"R_Date","HG6-2",,"likelihood",-2849.5,0.0008018
+9,"R_Date","HG6-2",,"likelihood",-2844.5,0.0012743
+9,"R_Date","HG6-2",,"likelihood",-2839.5,0.001939
+9,"R_Date","HG6-2",,"likelihood",-2834.5,0.0026861
+9,"R_Date","HG6-2",,"likelihood",-2829.5,0.003333
+9,"R_Date","HG6-2",,"likelihood",-2824.5,0.003607
+9,"R_Date","HG6-2",,"likelihood",-2819.5,0.003258
+9,"R_Date","HG6-2",,"likelihood",-2814.5,0.0023637
+9,"R_Date","HG6-2",,"likelihood",-2809.5,0.0011276
+9,"R_Date","HG6-2",,"likelihood",-2804.5,0.0003801
+9,"R_Date","HG6-2",,"likelihood",-2799.5,0.00010237
+9,"R_Date","HG6-2",,"likelihood",-2794.5,0.00003633
+9,"R_Date","HG6-2",,"likelihood",-2789.5,0.00001991
+9,"R_Date","HG6-2",,"likelihood",-2784.5,0.000027253
+9,"R_Date","HG6-2",,"likelihood",-2779.5,0.00005863
+9,"R_Date","HG6-2",,"likelihood",-2774.5,0.00012767
+9,"R_Date","HG6-2",,"likelihood",-2769.5,0.0001636
+9,"R_Date","HG6-2",,"likelihood",-2764.5,0.00018618
+9,"R_Date","HG6-2",,"likelihood",-2759.5,0.00021124
+9,"R_Date","HG6-2",,"likelihood",-2754.5,0.00027011
+9,"R_Date","HG6-2",,"likelihood",-2749.5,0.0004635
+9,"R_Date","HG6-2",,"likelihood",-2744.5,0.000894
+9,"R_Date","HG6-2",,"likelihood",-2739.5,0.0014766
+9,"R_Date","HG6-2",,"likelihood",-2734.5,0.0017235
+9,"R_Date","HG6-2",,"likelihood",-2729.5,0.0013386
+9,"R_Date","HG6-2",,"likelihood",-2724.5,0.0007853
+9,"R_Date","HG6-2",,"likelihood",-2719.5,0.0003891
+9,"R_Date","HG6-2",,"likelihood",-2714.5,0.00017872
+9,"R_Date","HG6-2",,"likelihood",-2709.5,0.00012771
+9,"R_Date","HG6-2",,"likelihood",-2704.5,0.0001899
+9,"R_Date","HG6-2",,"likelihood",-2699.5,0.0004691
+9,"R_Date","HG6-2",,"likelihood",-2694.5,0.0010528
+9,"R_Date","HG6-2",,"likelihood",-2689.5,0.0013418
+9,"R_Date","HG6-2",,"likelihood",-2684.5,0.0011981
+9,"R_Date","HG6-2",,"likelihood",-2679.5,0.0010907
+9,"R_Date","HG6-2",,"likelihood",-2674.5,0.0012321
+9,"R_Date","HG6-2",,"likelihood",-2669.5,0.0018748
+9,"R_Date","HG6-2",,"likelihood",-2664.5,0.0028574
+9,"R_Date","HG6-2",,"likelihood",-2659.5,0.003838
+9,"R_Date","HG6-2",,"likelihood",-2654.5,0.004037
+9,"R_Date","HG6-2",,"likelihood",-2649.5,0.003463
+9,"R_Date","HG6-2",,"likelihood",-2644.5,0.0028413
+9,"R_Date","HG6-2",,"likelihood",-2639.5,0.0024936
+9,"R_Date","HG6-2",,"likelihood",-2634.5,0.0028042
+9,"R_Date","HG6-2",,"likelihood",-2629.5,0.003648
+9,"R_Date","HG6-2",,"likelihood",-2624.5,0.005139
+9,"R_Date","HG6-2",,"likelihood",-2619.5,0.006595
+9,"R_Date","HG6-2",,"likelihood",-2614.5,0.007133
+9,"R_Date","HG6-2",,"likelihood",-2609.5,0.00706
+9,"R_Date","HG6-2",,"likelihood",-2604.5,0.006681
+9,"R_Date","HG6-2",,"likelihood",-2599.5,0.006526
+9,"R_Date","HG6-2",,"likelihood",-2594.5,0.006388
+9,"R_Date","HG6-2",,"likelihood",-2589.5,0.006105
+9,"R_Date","HG6-2",,"likelihood",-2584.5,0.006126
+9,"R_Date","HG6-2",,"likelihood",-2579.5,0.006942
+9,"R_Date","HG6-2",,"likelihood",-2574.5,0.007336
+9,"R_Date","HG6-2",,"likelihood",-2569.5,0.005484
+9,"R_Date","HG6-2",,"likelihood",-2564.5,0.0030429
+9,"R_Date","HG6-2",,"likelihood",-2559.5,0.001878
+9,"R_Date","HG6-2",,"likelihood",-2554.5,0.0014591
+9,"R_Date","HG6-2",,"likelihood",-2549.5,0.001336
+9,"R_Date","HG6-2",,"likelihood",-2544.5,0.0013751
+9,"R_Date","HG6-2",,"likelihood",-2539.5,0.0015397
+9,"R_Date","HG6-2",,"likelihood",-2534.5,0.0020938
+9,"R_Date","HG6-2",,"likelihood",-2529.5,0.0030647
+9,"R_Date","HG6-2",,"likelihood",-2524.5,0.003934
+9,"R_Date","HG6-2",,"likelihood",-2519.5,0.004429
+9,"R_Date","HG6-2",,"likelihood",-2514.5,0.005397
+9,"R_Date","HG6-2",,"likelihood",-2509.5,0.006381
+9,"R_Date","HG6-2",,"likelihood",-2504.5,0.006505
+9,"R_Date","HG6-2",,"likelihood",-2499.5,0.005437
+9,"R_Date","HG6-2",,"likelihood",-2494.5,0.003388
+9,"R_Date","HG6-2",,"likelihood",-2489.5,0.0017495
+9,"R_Date","HG6-2",,"likelihood",-2484.5,0.0012975
+9,"R_Date","HG6-2",,"likelihood",-2479.5,0.0014373
+9,"R_Date","HG6-2",,"likelihood",-2474.5,0.0014203
+9,"R_Date","HG6-2",,"likelihood",-2469.5,0.0004394
+9,"R_Date","HG6-2",,"likelihood",-2464.5,0.00005024
+9,"R_Date","HG6-2",,"likelihood",-2459.5,0.00000683
+9,"R_Date","HG6-2",,"likelihood",-2454.5,0.000001071
+9,"R_Date","HG6-2",,"likelihood",-2449.5,3.668e-7
+9,"R_Date","HG6-2",,"likelihood",-2444.5,2.7143e-7
+9,"R_Date","HG6-2",,"likelihood",-2439.5,2.6409e-7
+9,"R_Date","HG6-2",,"likelihood",-2434.5,1.7606e-7
+9,"R_Date","HG6-2",,"likelihood",-2429.5,1.4672e-7
+9,"R_Date","HG6-2",,"likelihood",-2424.5,1.6139e-7
+9,"R_Date","HG6-2",,"likelihood",-2419.5,3.595e-7
+9,"R_Date","HG6-2",,"likelihood",-2414.5,9.537e-7
+9,"R_Date","HG6-2",,"likelihood",-2409.5,0.0000010637
+9,"R_Date","HG6-2",,"likelihood",-2404.5,3.961e-7
+9,"R_Date","HG6-2",,"likelihood",-2399.5,1.834e-7
+9,"R_Date","HG6-2",,"likelihood",-2394.5,5.135e-8
+9,"R_Date","HG6-2",,"likelihood",-2389.5,2.9344e-8
+9,"R_Date","HG6-2",,"likelihood",-2384.5,6.602e-8
+9,"R_Date","HG6-2",,"likelihood",-2379.5,1.834e-7
+9,"R_Date","HG6-2",,"likelihood",-2374.5,4.035e-7
+9,"R_Date","HG6-2",,"likelihood",-2369.5,6.969e-7
+9,"R_Date","HG6-2",,"likelihood",-2364.5,7.189e-7
+9,"R_Date","HG6-2",,"likelihood",-2359.5,8.143e-7
+9,"R_Date","HG6-2",,"likelihood",-2354.5,7.776e-7
+9,"R_Date","HG6-2",,"likelihood",-2349.5,3.668e-7
+9,"R_Date","HG6-2",,"likelihood",-2344.5,8.803e-8
+9,"R_Date","HG6-2",,"likelihood",-2339.5,1.4672e-8
+9,"R_Date","HG6-2",,"likelihood",-2334.5,0
+9,"R_Date","HG6-2",,"likelihood",-2329.5,0
+9,"R_Date","HG6-2",,"likelihood",-2324.5,0
+9,"R_Date","HG6-2",,"likelihood",-2319.5,1.4672e-8
+9,"R_Date","HG6-2",,"likelihood",-2314.5,2.2008e-8
+9,"R_Date","HG6-2",,"likelihood",-2309.5,2.2008e-8
+9,"R_Date","HG6-2",,"likelihood",-2304.5,1.4672e-8
+9,"R_Date","HG6-2",,"likelihood",-2299.5,7.336e-9
+9,"R_Date","HG6-2",,"likelihood",-2294.5,0
+9,"R_Date","HG6-2",,"likelihood",-2289.5,0
+9,"R_Date","HG6-2",,"posterior",-2864.5,0
+9,"R_Date","HG6-2",,"posterior",-2859.5,4.119e-7
+9,"R_Date","HG6-2",,"posterior",-2854.5,8.066e-7
+9,"R_Date","HG6-2",,"posterior",-2849.5,0.000004067
+9,"R_Date","HG6-2",,"posterior",-2844.5,0.000028453
+9,"R_Date","HG6-2",,"posterior",-2839.5,0.00015651
+9,"R_Date","HG6-2",,"posterior",-2834.5,0.0005345
+9,"R_Date","HG6-2",,"posterior",-2829.5,0.0010858
+9,"R_Date","HG6-2",,"posterior",-2824.5,0.0013829
+9,"R_Date","HG6-2",,"posterior",-2819.5,0.001026
+9,"R_Date","HG6-2",,"posterior",-2814.5,0.0003642
+9,"R_Date","HG6-2",,"posterior",-2809.5,0.000028865
+9,"R_Date","HG6-2",,"posterior",-2804.5,0
+9,"R_Date","HG6-2",,"posterior",-2799.5,0
+9,"R_Date","HG6-2",,"posterior",-2794.5,0
+9,"R_Date","HG6-2",,"posterior",-2789.5,0
+9,"R_Date","HG6-2",,"posterior",-2784.5,0
+9,"R_Date","HG6-2",,"posterior",-2779.5,0
+9,"R_Date","HG6-2",,"posterior",-2774.5,0
+9,"R_Date","HG6-2",,"posterior",-2769.5,0
+9,"R_Date","HG6-2",,"posterior",-2764.5,0
+9,"R_Date","HG6-2",,"posterior",-2759.5,0
+9,"R_Date","HG6-2",,"posterior",-2754.5,0
+9,"R_Date","HG6-2",,"posterior",-2749.5,8.066e-7
+9,"R_Date","HG6-2",,"posterior",-2744.5,0.000010571
+9,"R_Date","HG6-2",,"posterior",-2739.5,0.00004146
+9,"R_Date","HG6-2",,"posterior",-2734.5,0.00008253
+9,"R_Date","HG6-2",,"posterior",-2729.5,0.00003983
+9,"R_Date","HG6-2",,"posterior",-2724.5,0.000007311
+9,"R_Date","HG6-2",,"posterior",-2719.5,0
+9,"R_Date","HG6-2",,"posterior",-2714.5,0
+9,"R_Date","HG6-2",,"posterior",-2709.5,0
+9,"R_Date","HG6-2",,"posterior",-2704.5,0
+9,"R_Date","HG6-2",,"posterior",-2699.5,0.0000016303
+9,"R_Date","HG6-2",,"posterior",-2694.5,0.000016663
+9,"R_Date","HG6-2",,"posterior",-2689.5,0.000037
+9,"R_Date","HG6-2",,"posterior",-2684.5,0.000027646
+9,"R_Date","HG6-2",,"posterior",-2679.5,0.000015445
+9,"R_Date","HG6-2",,"posterior",-2674.5,0.00003455
+9,"R_Date","HG6-2",,"posterior",-2669.5,0.0001504
+9,"R_Date","HG6-2",,"posterior",-2664.5,0.0006797
+9,"R_Date","HG6-2",,"posterior",-2659.5,0.0017744
+9,"R_Date","HG6-2",,"posterior",-2654.5,0.0021935
+9,"R_Date","HG6-2",,"posterior",-2649.5,0.0013447
+9,"R_Date","HG6-2",,"posterior",-2644.5,0.0006756
+9,"R_Date","HG6-2",,"posterior",-2639.5,0.0004297
+9,"R_Date","HG6-2",,"posterior",-2634.5,0.0006549
+9,"R_Date","HG6-2",,"posterior",-2629.5,0.0018492
+9,"R_Date","HG6-2",,"posterior",-2624.5,0.00595
+9,"R_Date","HG6-2",,"posterior",-2619.5,0.013063
+9,"R_Date","HG6-2",,"posterior",-2614.5,0.017161
+9,"R_Date","HG6-2",,"posterior",-2609.5,0.016614
+9,"R_Date","HG6-2",,"posterior",-2604.5,0.014582
+9,"R_Date","HG6-2",,"posterior",-2599.5,0.013355
+9,"R_Date","HG6-2",,"posterior",-2594.5,0.012143
+9,"R_Date","HG6-2",,"posterior",-2589.5,0.010778
+9,"R_Date","HG6-2",,"posterior",-2584.5,0.011361
+9,"R_Date","HG6-2",,"posterior",-2579.5,0.016622
+9,"R_Date","HG6-2",,"posterior",-2574.5,0.016565
+9,"R_Date","HG6-2",,"posterior",-2569.5,0.005419
+9,"R_Date","HG6-2",,"posterior",-2564.5,0.0006219
+9,"R_Date","HG6-2",,"posterior",-2559.5,0.0000809
+9,"R_Date","HG6-2",,"posterior",-2554.5,0.000023579
+9,"R_Date","HG6-2",,"posterior",-2549.5,0.000016269
+9,"R_Date","HG6-2",,"posterior",-2544.5,0.000015445
+9,"R_Date","HG6-2",,"posterior",-2539.5,0.000023579
+9,"R_Date","HG6-2",,"posterior",-2534.5,0.00009837
+9,"R_Date","HG6-2",,"posterior",-2529.5,0.0004224
+9,"R_Date","HG6-2",,"posterior",-2524.5,0.0011329
+9,"R_Date","HG6-2",,"posterior",-2519.5,0.0021191
+9,"R_Date","HG6-2",,"posterior",-2514.5,0.004512
+9,"R_Date","HG6-2",,"posterior",-2509.5,0.008455
+9,"R_Date","HG6-2",,"posterior",-2504.5,0.009
+9,"R_Date","HG6-2",,"posterior",-2499.5,0.004285
+9,"R_Date","HG6-2",,"posterior",-2494.5,0.0007862
+9,"R_Date","HG6-2",,"posterior",-2489.5,0.00006219
+9,"R_Date","HG6-2",,"posterior",-2484.5,0.000017487
+9,"R_Date","HG6-2",,"posterior",-2479.5,0.000019924
+9,"R_Date","HG6-2",,"posterior",-2474.5,0.000013815
+9,"R_Date","HG6-2",,"posterior",-2469.5,4.119e-7
+9,"R_Date","HG6-2",,"posterior",-2464.5,0
+9,"R_Date","HG6-2",,"posterior",-2459.5,0
+10,"Boundary","moat end",,"posterior",-2844.5,0
+10,"Boundary","moat end",,"posterior",-2839.5,0.0000020334
+10,"Boundary","moat end",,"posterior",-2834.5,0.000021546
+10,"Boundary","moat end",,"posterior",-2829.5,0.0000565
+10,"Boundary","moat end",,"posterior",-2824.5,0.00008293
+10,"Boundary","moat end",,"posterior",-2819.5,0.00012236
+10,"Boundary","moat end",,"posterior",-2814.5,0.0001248
+10,"Boundary","moat end",,"posterior",-2809.5,0.00010813
+10,"Boundary","moat end",,"posterior",-2804.5,0.00009593
+10,"Boundary","moat end",,"posterior",-2799.5,0.00005447
+10,"Boundary","moat end",,"posterior",-2794.5,0.00007398
+10,"Boundary","moat end",,"posterior",-2789.5,0.00007398
+10,"Boundary","moat end",,"posterior",-2784.5,0.00006098
+10,"Boundary","moat end",,"posterior",-2779.5,0.00005406
+10,"Boundary","moat end",,"posterior",-2774.5,0.00005366
+10,"Boundary","moat end",,"posterior",-2769.5,0.00005569
+10,"Boundary","moat end",,"posterior",-2764.5,0.00004431
+10,"Boundary","moat end",,"posterior",-2759.5,0.00005854
+10,"Boundary","moat end",,"posterior",-2754.5,0.00005772
+10,"Boundary","moat end",,"posterior",-2749.5,0.00004675
+10,"Boundary","moat end",,"posterior",-2744.5,0.00004797
+10,"Boundary","moat end",,"posterior",-2739.5,0.00005854
+10,"Boundary","moat end",,"posterior",-2734.5,0.0000374
+10,"Boundary","moat end",,"posterior",-2729.5,0.00006138
+10,"Boundary","moat end",,"posterior",-2724.5,0.0000435
+10,"Boundary","moat end",,"posterior",-2719.5,0.00004471
+10,"Boundary","moat end",,"posterior",-2714.5,0.00003008
+10,"Boundary","moat end",,"posterior",-2709.5,0.000030488
+10,"Boundary","moat end",,"posterior",-2704.5,0.00003415
+10,"Boundary","moat end",,"posterior",-2699.5,0.00003252
+10,"Boundary","moat end",,"posterior",-2694.5,0.00003374
+10,"Boundary","moat end",,"posterior",-2689.5,0.00003984
+10,"Boundary","moat end",,"posterior",-2684.5,0.00003862
+10,"Boundary","moat end",,"posterior",-2679.5,0.00003293
+10,"Boundary","moat end",,"posterior",-2674.5,0.00003211
+10,"Boundary","moat end",,"posterior",-2669.5,0.00004309
+10,"Boundary","moat end",,"posterior",-2664.5,0.00004228
+10,"Boundary","moat end",,"posterior",-2659.5,0.00009675
+10,"Boundary","moat end",,"posterior",-2654.5,0.00015976
+10,"Boundary","moat end",,"posterior",-2649.5,0.00021016
+10,"Boundary","moat end",,"posterior",-2644.5,0.00019228
+10,"Boundary","moat end",,"posterior",-2639.5,0.00019309
+10,"Boundary","moat end",,"posterior",-2634.5,0.00018577
+10,"Boundary","moat end",,"posterior",-2629.5,0.00019553
+10,"Boundary","moat end",,"posterior",-2624.5,0.000335
+10,"Boundary","moat end",,"posterior",-2619.5,0.0005911
+10,"Boundary","moat end",,"posterior",-2614.5,0.001161
+10,"Boundary","moat end",,"posterior",-2609.5,0.0015289
+10,"Boundary","moat end",,"posterior",-2604.5,0.0017805
+10,"Boundary","moat end",,"posterior",-2599.5,0.0019118
+10,"Boundary","moat end",,"posterior",-2594.5,0.0022459
+10,"Boundary","moat end",,"posterior",-2589.5,0.0023748
+10,"Boundary","moat end",,"posterior",-2584.5,0.0025146
+10,"Boundary","moat end",,"posterior",-2579.5,0.0027955
+10,"Boundary","moat end",,"posterior",-2574.5,0.0030634
+10,"Boundary","moat end",,"posterior",-2569.5,0.003285
+10,"Boundary","moat end",,"posterior",-2564.5,0.0028411
+10,"Boundary","moat end",,"posterior",-2559.5,0.0026972
+10,"Boundary","moat end",,"posterior",-2554.5,0.002574
+10,"Boundary","moat end",,"posterior",-2549.5,0.0023146
+10,"Boundary","moat end",,"posterior",-2544.5,0.0022264
+10,"Boundary","moat end",,"posterior",-2539.5,0.0022504
+10,"Boundary","moat end",,"posterior",-2534.5,0.0021016
+10,"Boundary","moat end",,"posterior",-2529.5,0.0019854
+10,"Boundary","moat end",,"posterior",-2524.5,0.0018955
+10,"Boundary","moat end",,"posterior",-2519.5,0.0019646
+10,"Boundary","moat end",,"posterior",-2514.5,0.0019764
+10,"Boundary","moat end",,"posterior",-2509.5,0.0021622
+10,"Boundary","moat end",,"posterior",-2504.5,0.0023211
+10,"Boundary","moat end",,"posterior",-2499.5,0.0024114
+10,"Boundary","moat end",,"posterior",-2494.5,0.0023455
+10,"Boundary","moat end",,"posterior",-2489.5,0.0021797
+10,"Boundary","moat end",,"posterior",-2484.5,0.002124
+10,"Boundary","moat end",,"posterior",-2479.5,0.0020427
+10,"Boundary","moat end",,"posterior",-2474.5,0.001976
+10,"Boundary","moat end",,"posterior",-2469.5,0.0019691
+10,"Boundary","moat end",,"posterior",-2464.5,0.0018976
+10,"Boundary","moat end",,"posterior",-2459.5,0.0018398
+10,"Boundary","moat end",,"posterior",-2454.5,0.0017931
+10,"Boundary","moat end",,"posterior",-2449.5,0.0016972
+10,"Boundary","moat end",,"posterior",-2444.5,0.0016833
+10,"Boundary","moat end",,"posterior",-2439.5,0.0016504
+10,"Boundary","moat end",,"posterior",-2434.5,0.0016264
+10,"Boundary","moat end",,"posterior",-2429.5,0.0016016
+10,"Boundary","moat end",,"posterior",-2424.5,0.0016244
+10,"Boundary","moat end",,"posterior",-2419.5,0.0015675
+10,"Boundary","moat end",,"posterior",-2414.5,0.0015207
+10,"Boundary","moat end",,"posterior",-2409.5,0.0015488
+10,"Boundary","moat end",,"posterior",-2404.5,0.0014691
+10,"Boundary","moat end",,"posterior",-2399.5,0.0013821
+10,"Boundary","moat end",,"posterior",-2394.5,0.0014313
+10,"Boundary","moat end",,"posterior",-2389.5,0.0013943
+10,"Boundary","moat end",,"posterior",-2384.5,0.0013878
+10,"Boundary","moat end",,"posterior",-2379.5,0.0013711
+10,"Boundary","moat end",,"posterior",-2374.5,0.0013545
+10,"Boundary","moat end",,"posterior",-2369.5,0.0013179
+10,"Boundary","moat end",,"posterior",-2364.5,0.0013126
+10,"Boundary","moat end",,"posterior",-2359.5,0.0012667
+10,"Boundary","moat end",,"posterior",-2354.5,0.0012967
+10,"Boundary","moat end",,"posterior",-2349.5,0.0013146
+10,"Boundary","moat end",,"posterior",-2344.5,0.0012484
+10,"Boundary","moat end",,"posterior",-2339.5,0.001248
+10,"Boundary","moat end",,"posterior",-2334.5,0.0012679
+10,"Boundary","moat end",,"posterior",-2329.5,0.0012516
+10,"Boundary","moat end",,"posterior",-2324.5,0.0012764
+10,"Boundary","moat end",,"posterior",-2319.5,0.0012211
+10,"Boundary","moat end",,"posterior",-2314.5,0.0012195
+10,"Boundary","moat end",,"posterior",-2309.5,0.0012106
+10,"Boundary","moat end",,"posterior",-2304.5,0.0012362
+10,"Boundary","moat end",,"posterior",-2299.5,0.0011955
+10,"Boundary","moat end",,"posterior",-2294.5,0.0011902
+10,"Boundary","moat end",,"posterior",-2289.5,0.0012004
+10,"Boundary","moat end",,"posterior",-2284.5,0.0012024
+10,"Boundary","moat end",,"posterior",-2279.5,0.0011459
+10,"Boundary","moat end",,"posterior",-2274.5,0.0011846
+10,"Boundary","moat end",,"posterior",-2269.5,0.0011707
+10,"Boundary","moat end",,"posterior",-2264.5,0.0012167
+10,"Boundary","moat end",,"posterior",-2259.5,0.0011821
+10,"Boundary","moat end",,"posterior",-2254.5,0.0011911
+10,"Boundary","moat end",,"posterior",-2249.5,0.0012179
+10,"Boundary","moat end",,"posterior",-2244.5,0.0011695
+10,"Boundary","moat end",,"posterior",-2239.5,0.0012057
+10,"Boundary","moat end",,"posterior",-2234.5,0.0011866
+10,"Boundary","moat end",,"posterior",-2229.5,0.0011996
+10,"Boundary","moat end",,"posterior",-2224.5,0.0011882
+10,"Boundary","moat end",,"posterior",-2219.5,0.0011321
+10,"Boundary","moat end",,"posterior",-2214.5,0.0011508
+10,"Boundary","moat end",,"posterior",-2209.5,0.0011907
+10,"Boundary","moat end",,"posterior",-2204.5,0.0011671
+10,"Boundary","moat end",,"posterior",-2199.5,0.0012081
+10,"Boundary","moat end",,"posterior",-2194.5,0.0012134
+10,"Boundary","moat end",,"posterior",-2189.5,0.0012646
+10,"Boundary","moat end",,"posterior",-2184.5,0.001202
+10,"Boundary","moat end",,"posterior",-2179.5,0.0012346
+10,"Boundary","moat end",,"posterior",-2174.5,0.0012606
+10,"Boundary","moat end",,"posterior",-2169.5,0.0012894
+10,"Boundary","moat end",,"posterior",-2164.5,0.0012524
+10,"Boundary","moat end",,"posterior",-2159.5,0.0012915
+10,"Boundary","moat end",,"posterior",-2154.5,0.0012614
+10,"Boundary","moat end",,"posterior",-2149.5,0.001252
+10,"Boundary","moat end",,"posterior",-2144.5,0.0013053
+10,"Boundary","moat end",,"posterior",-2139.5,0.0013041
+10,"Boundary","moat end",,"posterior",-2134.5,0.0012943
+10,"Boundary","moat end",,"posterior",-2129.5,0.0013488
+10,"Boundary","moat end",,"posterior",-2124.5,0.0013427
+10,"Boundary","moat end",,"posterior",-2119.5,0.0013553
+10,"Boundary","moat end",,"posterior",-2114.5,0.0013902
+10,"Boundary","moat end",,"posterior",-2109.5,0.0014402
+10,"Boundary","moat end",,"posterior",-2104.5,0.0013423
+10,"Boundary","moat end",,"posterior",-2099.5,0.0014106
+10,"Boundary","moat end",,"posterior",-2094.5,0.0014427
+10,"Boundary","moat end",,"posterior",-2089.5,0.0014776
+10,"Boundary","moat end",,"posterior",-2084.5,0.0015346
+10,"Boundary","moat end",,"posterior",-2079.5,0.0015459
+10,"Boundary","moat end",,"posterior",-2074.5,0.0015447
+10,"Boundary","moat end",,"posterior",-2069.5,0.001598
+10,"Boundary","moat end",,"posterior",-2064.5,0.0016313
+10,"Boundary","moat end",,"posterior",-2059.5,0.0016683
+10,"Boundary","moat end",,"posterior",-2054.5,0.0017329
+10,"Boundary","moat end",,"posterior",-2049.5,0.0016898
+10,"Boundary","moat end",,"posterior",-2044.5,0.0018138
+10,"Boundary","moat end",,"posterior",-2039.5,0.0019069
+10,"Boundary","moat end",,"posterior",-2034.5,0.0020711
+10,"Boundary","moat end",,"posterior",-2029.5,0.0022061
+10,"Boundary","moat end",,"posterior",-2024.5,0.0022951
+10,"Boundary","moat end",,"posterior",-2019.5,0.0026699
+10,"Boundary","moat end",,"posterior",-2014.5,0.0015789
+10,"Boundary","moat end",,"posterior",-2009.5,0
+10,"Boundary","moat end",,"posterior",-2004.5,0
