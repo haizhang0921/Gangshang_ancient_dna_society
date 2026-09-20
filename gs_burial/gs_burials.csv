@@ -1,0 +1,259 @@
+"tomb","pedigree","metric","value"
+"NM24","A","Area (m²)",1.79
+"NM28","A","Area (m²)",0.85
+"NM25","A","Area (m²)",1.8
+"NM27","B","Area (m²)",0.84
+"NM21","B","Area (m²)",0.928
+"NM23","C","Area (m²)",1.19
+"NM18","Unassigned","Area (m²)",1.81
+"NM26","Unassigned","Area (m²)",1.25
+"NM20","E","Area (m²)",0.85
+"NM29","E","Area (m²)",1.78
+"NM6","F","Area (m²)",2.38
+"NM30","B","Area (m²)",1.37
+"NM11","G","Area (m²)",3.39
+"NM8","G","Area (m²)",3.19
+"NM9","Unassigned","Area (m²)",1.57
+"NM10","D","Area (m²)",1.62
+"NM2","D","Area (m²)",3.68
+"NM3","D","Area (m²)",2.86
+"NM4","D","Area (m²)",3.24
+"NM5","F","Area (m²)",2.3
+"NM34","D","Area (m²)",10.25
+"NM31","D","Area (m²)",10.4
+"NM14","D","Area (m²)",8.47
+"NM32","D","Area (m²)",4.9
+"NM15","H","Area (m²)",8.39
+"NM16","H","Area (m²)",12.29
+"NM13","Unassigned","Area (m²)",7.12
+"SM1","I","Area (m²)",10.56
+"SM2","I","Area (m²)",3.25
+"SM3","Unassigned","Area (m²)",0.71
+"SM4","Unassigned","Area (m²)",1.4
+"SM5","Unassigned","Area (m²)",2.52
+"SM6","Unassigned","Area (m²)",2
+"SM7","Unassigned","Area (m²)",3.64
+"SM8","Unassigned","Area (m²)",2.73
+"SM9","Unassigned","Area (m²)",5.2
+"SM10","Unassigned","Area (m²)",3.72
+"SM11","Unassigned","Area (m²)",1.9
+"SM12","Unassigned","Area (m²)",3.25
+"SM13","Unassigned","Area (m²)",0.6
+"SM14","Unassigned","Area (m²)",0.95
+"SM15","Unassigned","Area (m²)",0.91
+"SM17","Unassigned","Area (m²)",0.31
+"NM24","A","Pottery",0
+"NM28","A","Pottery",7
+"NM25","A","Pottery",34
+"NM27","B","Pottery",7
+"NM21","B","Pottery",7
+"NM23","C","Pottery",12
+"NM18","Unassigned","Pottery",21
+"NM26","Unassigned","Pottery",24
+"NM20","E","Pottery",8
+"NM29","E","Pottery",16
+"NM6","F","Pottery",24
+"NM30","B","Pottery",5
+"NM11","G","Pottery",16
+"NM8","G","Pottery",2
+"NM9","Unassigned","Pottery",18
+"NM10","D","Pottery",9
+"NM2","D","Pottery",20
+"NM3","D","Pottery",14
+"NM4","D","Pottery",22
+"NM5","F","Pottery",5
+"NM34","D","Pottery",34
+"NM31","D","Pottery",73
+"NM14","D","Pottery",75
+"NM32","D","Pottery",13
+"NM15","H","Pottery",40
+"NM16","H","Pottery",54
+"NM13","Unassigned","Pottery",39
+"SM1","I","Pottery",317
+"SM2","I","Pottery",200
+"SM3","Unassigned","Pottery",0
+"SM4","Unassigned","Pottery",26
+"SM5","Unassigned","Pottery",0
+"SM6","Unassigned","Pottery",0
+"SM7","Unassigned","Pottery",34
+"SM8","Unassigned","Pottery",0
+"SM9","Unassigned","Pottery",120
+"SM10","Unassigned","Pottery",28
+"SM11","Unassigned","Pottery",2
+"SM12","Unassigned","Pottery",9
+"SM13","Unassigned","Pottery",0
+"SM14","Unassigned","Pottery",0
+"SM15","Unassigned","Pottery",3
+"SM17","Unassigned","Pottery",0
+"NM24","A","Jadeware",2
+"NM28","A","Jadeware",0
+"NM25","A","Jadeware",0
+"NM27","B","Jadeware",0
+"NM21","B","Jadeware",0
+"NM23","C","Jadeware",0
+"NM18","Unassigned","Jadeware",0
+"NM26","Unassigned","Jadeware",0
+"NM20","E","Jadeware",0
+"NM29","E","Jadeware",0
+"NM6","F","Jadeware",1
+"NM30","B","Jadeware",0
+"NM11","G","Jadeware",0
+"NM8","G","Jadeware",0
+"NM9","Unassigned","Jadeware",0
+"NM10","D","Jadeware",0
+"NM2","D","Jadeware",0
+"NM3","D","Jadeware",0
+"NM4","D","Jadeware",0
+"NM5","F","Jadeware",0
+"NM34","D","Jadeware",37
+"NM31","D","Jadeware",32
+"NM14","D","Jadeware",9
+"NM32","D","Jadeware",3
+"NM15","H","Jadeware",10
+"NM16","H","Jadeware",3
+"NM13","Unassigned","Jadeware",10
+"SM1","I","Jadeware",15
+"SM2","I","Jadeware",3
+"SM3","Unassigned","Jadeware",0
+"SM4","Unassigned","Jadeware",1
+"SM5","Unassigned","Jadeware",2
+"SM6","Unassigned","Jadeware",0
+"SM7","Unassigned","Jadeware",3
+"SM8","Unassigned","Jadeware",0
+"SM9","Unassigned","Jadeware",41
+"SM10","Unassigned","Jadeware",0
+"SM11","Unassigned","Jadeware",0
+"SM12","Unassigned","Jadeware",6
+"SM13","Unassigned","Jadeware",0
+"SM14","Unassigned","Jadeware",0
+"SM15","Unassigned","Jadeware",0
+"SM17","Unassigned","Jadeware",0
+"NM24","A","Bone/horn/ivory artefacts",0
+"NM28","A","Bone/horn/ivory artefacts",2
+"NM25","A","Bone/horn/ivory artefacts",29
+"NM27","B","Bone/horn/ivory artefacts",0
+"NM21","B","Bone/horn/ivory artefacts",1
+"NM23","C","Bone/horn/ivory artefacts",0
+"NM18","Unassigned","Bone/horn/ivory artefacts",6
+"NM26","Unassigned","Bone/horn/ivory artefacts",4
+"NM20","E","Bone/horn/ivory artefacts",7
+"NM29","E","Bone/horn/ivory artefacts",1
+"NM6","F","Bone/horn/ivory artefacts",35
+"NM30","B","Bone/horn/ivory artefacts",0
+"NM11","G","Bone/horn/ivory artefacts",5
+"NM8","G","Bone/horn/ivory artefacts",2
+"NM9","Unassigned","Bone/horn/ivory artefacts",1
+"NM10","D","Bone/horn/ivory artefacts",12
+"NM2","D","Bone/horn/ivory artefacts",4
+"NM3","D","Bone/horn/ivory artefacts",1
+"NM4","D","Bone/horn/ivory artefacts",5
+"NM5","F","Bone/horn/ivory artefacts",11
+"NM34","D","Bone/horn/ivory artefacts",140
+"NM31","D","Bone/horn/ivory artefacts",44
+"NM14","D","Bone/horn/ivory artefacts",60
+"NM32","D","Bone/horn/ivory artefacts",3
+"NM15","H","Bone/horn/ivory artefacts",4
+"NM16","H","Bone/horn/ivory artefacts",8
+"NM13","Unassigned","Bone/horn/ivory artefacts",53
+"SM1","I","Bone/horn/ivory artefacts",11
+"SM2","I","Bone/horn/ivory artefacts",2
+"SM3","Unassigned","Bone/horn/ivory artefacts",0
+"SM4","Unassigned","Bone/horn/ivory artefacts",1
+"SM5","Unassigned","Bone/horn/ivory artefacts",0
+"SM6","Unassigned","Bone/horn/ivory artefacts",0
+"SM7","Unassigned","Bone/horn/ivory artefacts",0
+"SM8","Unassigned","Bone/horn/ivory artefacts",0
+"SM9","Unassigned","Bone/horn/ivory artefacts",0
+"SM10","Unassigned","Bone/horn/ivory artefacts",1
+"SM11","Unassigned","Bone/horn/ivory artefacts",0
+"SM12","Unassigned","Bone/horn/ivory artefacts",4
+"SM13","Unassigned","Bone/horn/ivory artefacts",0
+"SM14","Unassigned","Bone/horn/ivory artefacts",1
+"SM15","Unassigned","Bone/horn/ivory artefacts",0
+"SM17","Unassigned","Bone/horn/ivory artefacts",0
+"NM24","A","Animal bone",0
+"NM28","A","Animal bone",0
+"NM25","A","Animal bone",10
+"NM27","B","Animal bone",1
+"NM21","B","Animal bone",0
+"NM23","C","Animal bone",0
+"NM18","Unassigned","Animal bone",0
+"NM26","Unassigned","Animal bone",9
+"NM20","E","Animal bone",0
+"NM29","E","Animal bone",0
+"NM6","F","Animal bone",1
+"NM30","B","Animal bone",1
+"NM11","G","Animal bone",2
+"NM8","G","Animal bone",0
+"NM9","Unassigned","Animal bone",0
+"NM10","D","Animal bone",1
+"NM2","D","Animal bone",0
+"NM3","D","Animal bone",1
+"NM4","D","Animal bone",2
+"NM5","F","Animal bone",0
+"NM34","D","Animal bone",9
+"NM31","D","Animal bone",7
+"NM14","D","Animal bone",9
+"NM32","D","Animal bone",10
+"NM15","H","Animal bone",19
+"NM16","H","Animal bone",4
+"NM13","Unassigned","Animal bone",4
+"SM1","I","Animal bone",10
+"SM2","I","Animal bone",11
+"SM3","Unassigned","Animal bone",0
+"SM4","Unassigned","Animal bone",0
+"SM5","Unassigned","Animal bone",2
+"SM6","Unassigned","Animal bone",3
+"SM7","Unassigned","Animal bone",1
+"SM8","Unassigned","Animal bone",2
+"SM9","Unassigned","Animal bone",24
+"SM10","Unassigned","Animal bone",3
+"SM11","Unassigned","Animal bone",0
+"SM12","Unassigned","Animal bone",8
+"SM13","Unassigned","Animal bone",0
+"SM14","Unassigned","Animal bone",2
+"SM15","Unassigned","Animal bone",0
+"SM17","Unassigned","Animal bone",0
+"NM24","A","Grave value",4
+"NM28","A","Grave value",3.48
+"NM25","A","Grave value",14.27
+"NM27","B","Grave value",3.48
+"NM21","B","Grave value",3.48
+"NM23","C","Grave value",3.48
+"NM18","Unassigned","Grave value",4.69
+"NM26","Unassigned","Grave value",6.42
+"NM20","E","Grave value",3.48
+"NM29","E","Grave value",3.48
+"NM6","F","Grave value",15.62
+"NM30","B","Grave value",3.48
+"NM11","G","Grave value",6.31
+"NM8","G","Grave value",5.01
+"NM9","Unassigned","Grave value",5.01
+"NM10","D","Grave value",6.74
+"NM2","D","Grave value",7.52
+"NM3","D","Grave value",6.31
+"NM4","D","Grave value",7.52
+"NM5","F","Grave value",6.74
+"NM34","D","Grave value",71.85
+"NM31","D","Grave value",41.83
+"NM14","D","Grave value",33.07
+"NM32","D","Grave value",10.92
+"NM15","H","Grave value",19.97
+"NM16","H","Grave value",16.28
+"NM13","Unassigned","Grave value",26.29
+"SM1","I","Grave value",63.55
+"SM2","I","Grave value",32.71
+"SM3","Unassigned","Grave value",1.12
+"SM4","Unassigned","Grave value",9.1
+"SM5","Unassigned","Grave value",7.98
+"SM6","Unassigned","Grave value",3.8
+"SM7","Unassigned","Grave value",10.4
+"SM8","Unassigned","Grave value",5.1
+"SM9","Unassigned","Grave value",31.36
+"SM10","Unassigned","Grave value",7.52
+"SM11","Unassigned","Grave value",2.33
+"SM12","Unassigned","Grave value",10.92
+"SM13","Unassigned","Grave value",2.65
+"SM14","Unassigned","Grave value",2.27
+"SM15","Unassigned","Grave value",2.33
+"SM17","Unassigned","Grave value",1.12
