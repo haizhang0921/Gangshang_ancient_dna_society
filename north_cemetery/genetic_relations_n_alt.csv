@@ -1,0 +1,21 @@
+Earlier death,Later death,Relationship,Mean,SD,Direction established
+NM28,NM24,Parent-Offspring,29,19,No
+NM25,NM24,Sibling,26,22,No
+NM28,NM25,2nd relationship,35,26,No
+NM30,NM27,Parent-Offspring,29,19,Yes
+NM27,NM21,Grandparent-Grandchild,35,32,No
+NM23,NM12,Parent-Offspring,29,19,No
+NM22,NM23,Sibling,26,22,No
+NM10,NM2,Sibling,26,22,No
+NM2,NM4,Parent-Offspring,29,19,No
+NM3,NM4,Parent-Offspring,29,19,No
+NM29,NM20,Parent-Offspring,29,19,No
+NM20,NM5,2nd relationship,35,26,No
+NM5,NM6,Sibling,26,22,No
+NM4,NW10,2nd relationship,35,26,No
+NW10,NM14,2nd relationship,35,26,No
+NM14,NM32,Parent-Offspring,29,19,Yes
+NM34,NM31,Sibling,26,22,No
+NM31,NM14,Sibling,26,22,No
+NM34,NM14,Sibling,26,22,No
+NM15,NM16,Parent-Offspring,29,19,Yes
